@@ -1,0 +1,2896 @@
+latitude	longitude	dataset_name	ecosystem
+50.151	-4.13	Ocean Sampling Day 2015	coastal
+41.8398	-83.1899	Ocean Sampling Day 2015	coastal
+35.35	25.29	Ocean Sampling Day 2015	coastal
+35.35	25.29	Ocean Sampling Day 2015	coastal
+32.7418	-16.7113	Ocean Sampling Day 2015	coastal
+32.646	-16.9102	Ocean Sampling Day 2015	coastal
+32.7747	-16.8287	Ocean Sampling Day 2015	coastal
+65.9449	-22.4192	Ocean Sampling Day 2015	coastal
+39.1404	-9.38011	Ocean Sampling Day 2015	coastal
+38.7573	-8.96633	Ocean Sampling Day 2015	coastal
+38.6769	-9.01239	Ocean Sampling Day 2015	coastal
+-67.57	-68.13	Ocean Sampling Day 2015	coastal
+40.1451	-8.86933	Ocean Sampling Day 2015	coastal
+40.6599	-8.70376	Ocean Sampling Day 2015	coastal
+38.6667	-9.4367	Ocean Sampling Day 2015	coastal
+34.41	-9.51	Ocean Sampling Day 2015	coastal
+39.1343	-9.38478	Ocean Sampling Day 2015	coastal
+39.4151	-9.21883	Ocean Sampling Day 2015	coastal
+21.3742	-89.6712	Ocean Sampling Day 2015	coastal
+21.4934	-88.8468	Ocean Sampling Day 2015	coastal
+20.8842	-90.4968	Ocean Sampling Day 2015	coastal
+29.4667	34.9291	Ocean Sampling Day 2015	coastal
+32.822	32.954	Ocean Sampling Day 2015	coastal
+34.3244	135.121	Ocean Sampling Day 2015	coastal
+55.0331	-1.43278	Ocean Sampling Day 2015	coastal
+43.1758	27.9086	Ocean Sampling Day 2015	coastal
+42.2449	27.4008	Ocean Sampling Day 2015	coastal
+32.0694	34.843	Ocean Sampling Day 2015	coastal
+-33.8971	18.3868	Ocean Sampling Day 2015	coastal
+42.49	3.15	Ocean Sampling Day 2015	coastal
+37.2156	9.92983	Ocean Sampling Day 2015	coastal
+60.1612	5.11504	Ocean Sampling Day 2015	coastal
+31.3836	-80.8667	Ocean Sampling Day 2015	coastal
+31.9828	-81.0167	Ocean Sampling Day 2015	coastal
+8.5216	81.0521	Ocean Sampling Day 2015	coastal
+53.5809	8.14864	Ocean Sampling Day 2015	coastal
+43.6861	7.31567	Ocean Sampling Day 2015	coastal
+43.6861	7.31567	Ocean Sampling Day 2015	coastal
+44.6936	-63.6403	Ocean Sampling Day 2015	coastal
+44.6936	-63.6403	Ocean Sampling Day 2015	coastal
+44.6936	-63.6403	Ocean Sampling Day 2015	coastal
+36.9977	-7.97312	Ocean Sampling Day 2015	coastal
+44.6667	-1.16666	Ocean Sampling Day 2015	coastal
+48.359	-4.552	Ocean Sampling Day 2015	coastal
+58.876	11.148	Ocean Sampling Day 2015	coastal
+56.9631	-2.1031	Ocean Sampling Day 2015	coastal
+58.957	-2.9726	Ocean Sampling Day 2015	coastal
+60.1433	-1.2825	Ocean Sampling Day 2015	coastal
+57.8498	-5.6495	Ocean Sampling Day 2015	coastal
+43.4325	2.89966	Ocean Sampling Day 2015	coastal
+38.4133	27.0342	Ocean Sampling Day 2015	coastal
+51.7961	1.01296	Ocean Sampling Day 2015	coastal
+51.4347	2.81087	Ocean Sampling Day 2015	coastal
+51.2695	2.9047	Ocean Sampling Day 2015	coastal
+51.3073	2.84933	Ocean Sampling Day 2015	coastal
+51.3749	3.21833	Ocean Sampling Day 2015	coastal
+51.441	3.13995	Ocean Sampling Day 2015	coastal
+51.4716	3.05917	Ocean Sampling Day 2015	coastal
+51.3348	2.50215	Ocean Sampling Day 2015	coastal
+51.2777	2.6135	Ocean Sampling Day 2015	coastal
+51.1857	2.70167	Ocean Sampling Day 2015	coastal
+51.5803	2.7897	Ocean Sampling Day 2015	coastal
+51.5687	2.256	Ocean Sampling Day 2015	coastal
+35.3637	33.2896	Ocean Sampling Day 2015	coastal
+51.8	2.556	Ocean Sampling Day 2015	coastal
+51.588	3.01252	Ocean Sampling Day 2015	coastal
+51.4584	2.35047	Ocean Sampling Day 2015	coastal
+51.7483	2.698	Ocean Sampling Day 2015	coastal
+51.6829	2.4152	Ocean Sampling Day 2015	coastal
+51.4816	2.45148	Ocean Sampling Day 2015	coastal
+58.8779	11.1261	Ocean Sampling Day 2015	coastal
+41.3836	16.1277	Ocean Sampling Day 2015	coastal
+-26.448	114.095	Ocean Sampling Day 2015	coastal
+29.2801	48.089	Ocean Sampling Day 2015	coastal
+36.6033	-121.889	Ocean Sampling Day 2015	coastal
+48.7778	-3.9375	Ocean Sampling Day 2015	coastal
+48.7778	-3.9375	Ocean Sampling Day 2015	coastal
+64.2083	-22.015	Ocean Sampling Day 2015	coastal
+80.301	6.2063	Ocean Sampling Day 2015	coastal
+43.2264	5.74583	Ocean Sampling Day 2015	coastal
+35.1927	-2.88005	Ocean Sampling Day 2015	coastal
+35.0864	-2.21466	Ocean Sampling Day 2015	coastal
+35.82	-5.75	Ocean Sampling Day 2015	coastal
+37.1884	9.84565	Ocean Sampling Day 2015	coastal
+16.8026	-88.0816	Ocean Sampling Day 2015	coastal
+27.4694	-80.2834	Ocean Sampling Day 2015	coastal
+54.1819	7.9	Ocean Sampling Day 2015	coastal
+59.8822	23.2538	Ocean Sampling Day 2015	coastal
+31.216	29.966	Ocean Sampling Day 2015	coastal
+38.6792	-76.1742	Ocean Sampling Day 2015	coastal
+39.3322	-75.4699	Ocean Sampling Day 2015	coastal
+26.1029	-80.0931	Ocean Sampling Day 2015	coastal
+24.7449	-80.7838	Ocean Sampling Day 2015	coastal
+32.7524	-79.8995	Ocean Sampling Day 2015	coastal
+40.808	14.25	Ocean Sampling Day 2015	coastal
+48.0405	-123.026	Ocean Sampling Day 2015	coastal
+32.867	-117.257	Ocean Sampling Day 2015	coastal
+27.6158	-82.7259	Ocean Sampling Day 2015	coastal
+30.2484	-88.7483	Ocean Sampling Day 2015	coastal
+45.502	12.4176	Ocean Sampling Day 2015	coastal
+45.4125	12.5265	Ocean Sampling Day 2015	coastal
+45.3256	13.3319	Ocean Sampling Day 2015	coastal
+35.661	24.99	Ocean Sampling Day 2015	coastal
+35.661	24.99	Ocean Sampling Day 2015	coastal
+43.3333	-1.925	Ocean Sampling Day 2015	coastal
+9.3485	-82.266	Ocean Sampling Day 2015	coastal
+9.3485	-82.266	Ocean Sampling Day 2015	coastal
+43.8444	-69.6409	Ocean Sampling Day 2015	coastal
+43.8604	-69.5781	Ocean Sampling Day 2015	coastal
+34.7181	-76.6707	Ocean Sampling Day 2015	coastal
+38.312	-123.083	Ocean Sampling Day 2015	coastal
+41.6666	2.8	Ocean Sampling Day 2015	coastal
+33.3231	-79.1676	Ocean Sampling Day 2015	coastal
+41.5245	-70.6722	Ocean Sampling Day 2015	coastal
+53.2254	-4.15903	Ocean Sampling Day 2015	coastal
+45.3144	12.5083	Ocean Sampling Day 2015	coastal
+46.4416	30.7759	Ocean Sampling Day 2015	coastal
+45.4568	12.2605	Ocean Sampling Day 2015	coastal
+-17.2894	-149.54	Ocean Sampling Day 2015	coastal
+45.4142	12.4378	Ocean Sampling Day 2015	coastal
+-45.7442	170.771	Ocean Sampling Day 2015	coastal
+54.8333	10	Ocean Sampling Day 2015	coastal
+54.8333	10	Ocean Sampling Day 2015	coastal
+41.6835	-8.8341	Ocean Sampling Day 2015	coastal
+41.1416	-8.6668	Ocean Sampling Day 2015	coastal
+43.9475	12.935	Ocean Sampling Day 2015	coastal
+43.8514	13.0731	Ocean Sampling Day 2015	coastal
+43.57	13.595	Ocean Sampling Day 2015	coastal
+37.0051	-7.97312	Ocean Sampling Day 2015	coastal
+52.4578	1.73878	Ocean Sampling Day 2015	coastal
+46.084	-1.308	Ocean Sampling Day 2015	coastal
+33.58	-118.38	Ocean Sampling Day 2015	coastal
+32.7467	-9.03667	Ocean Sampling Day 2015	coastal
+33.5839	-7.70064	Ocean Sampling Day 2015	coastal
+33.2596	-8.49922	Ocean Sampling Day 2015	coastal
+35.0864	-2.21466	Ocean Sampling Day 2015	coastal
+1.2685	103.917	Ocean Sampling Day 2015	coastal
+45.7009	13.71	Ocean Sampling Day 2015	coastal
+71.13	-136.42	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+71.13	-136.42	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+71.13	-136.42	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+71.13	-136.42	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.4	-136.03	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.4	-136.03	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.4	-136.03	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.4	-136.03	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.45	-137.53	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.45	-137.53	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.45	-137.53	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.45	-137.53	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.68	-139.627	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.68	-139.627	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.68	-139.627	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.68	-139.627	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+69.798	-138.441	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+69.798	-138.441	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+69.798	-138.441	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+69.798	-138.441	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.33	-140.47	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.33	-140.47	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.33	-140.47	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+70.33	-140.47	Arctic Ocean, Beaufort Sea, MALINA cruise - 2009	oceanic
+-62.2038	-58.9361	Antarctic Feldes Bay 2013	coastal
+-62.2042	-58.9267	Antarctic Feldes Bay 2013	coastal
+-62.2066	-58.9178	Antarctic Feldes Bay 2013	coastal
+-62.211	-58.907	Antarctic Feldes Bay 2013	coastal
+-62.2164	-58.9017	Antarctic Feldes Bay 2013	coastal
+-62.2113	-58.9537	Antarctic Feldes Bay 2013	coastal
+-62.2161	-58.9498	Antarctic Feldes Bay 2013	coastal
+-62.2204	-58.948	Antarctic Feldes Bay 2013	coastal
+-62.2239	-58.9427	Antarctic Feldes Bay 2013	coastal
+-62.228	-58.9325	Antarctic Feldes Bay 2013	coastal
+83.9865	78.1033	Arctic Ocean Central - 2012	oceanic
+82.6707	109.59	Arctic Ocean Central - 2012	oceanic
+82.9975	130.13	Arctic Ocean Central - 2012	oceanic
+88.3277	58.8635	Arctic Ocean Central - 2012	oceanic
+83.9865	78.1033	Arctic Ocean Central - 2012	oceanic
+82.6707	109.59	Arctic Ocean Central - 2012	oceanic
+82.9975	130.13	Arctic Ocean Central - 2012	oceanic
+88.3277	58.8635	Arctic Ocean Central - 2012	oceanic
+78.8292	7.0223	Arctic Nansen Basin - 2012	oceanic
+78.8288	4.0085	Arctic Nansen Basin - 2012	oceanic
+78.7538	-12.7862	Arctic Nansen Basin - 2012	oceanic
+78.8327	-4.5963	Arctic Nansen Basin - 2012	oceanic
+78.824	-3.939	Arctic Nansen Basin - 2012	oceanic
+78.6102	5.068	Arctic Nansen Basin - 2012	oceanic
+79.0643	3.3328	Arctic Nansen Basin - 2012	oceanic
+79.7397	4.5053	Arctic Nansen Basin - 2012	oceanic
+81.4935	30.1722	Arctic Nansen Basin - 2012	oceanic
+82.99	30.0538	Arctic Nansen Basin - 2012	oceanic
+83.9227	60.6552	Arctic Nansen Basin - 2012	oceanic
+83.5882	87.4518	Arctic Nansen Basin - 2012	oceanic
+82.1657	126.97	Arctic Nansen Basin - 2012	oceanic
+77.3968	118.196	Arctic Nansen Basin - 2012	oceanic
+81.8758	130.878	Arctic Nansen Basin - 2012	oceanic
+85.159	123.359	Arctic Nansen Basin - 2012	oceanic
+87.9245	61.125	Arctic Nansen Basin - 2012	oceanic
+50.151	-4.13	Ocean Sampling Day 2014	coastal
+41.8398	-83.1899	Ocean Sampling Day 2014	coastal
+35.35	25.29	Ocean Sampling Day 2014	coastal
+35.35	25.29	Ocean Sampling Day 2014	coastal
+32.7418	-16.7113	Ocean Sampling Day 2014	coastal
+32.646	-16.9102	Ocean Sampling Day 2014	coastal
+32.7747	-16.8287	Ocean Sampling Day 2014	coastal
+69.0233	-105.343	Ocean Sampling Day 2014	coastal
+65.9449	-22.4192	Ocean Sampling Day 2014	coastal
+65.9449	-22.4192	Ocean Sampling Day 2014	coastal
+39.1404	-9.38011	Ocean Sampling Day 2014	coastal
+38.7573	-8.96633	Ocean Sampling Day 2014	coastal
+38.6769	-9.01239	Ocean Sampling Day 2014	coastal
+40.1451	-8.86933	Ocean Sampling Day 2014	coastal
+40.6599	-8.70376	Ocean Sampling Day 2014	coastal
+38.6667	-9.4367	Ocean Sampling Day 2014	coastal
+34.41	-9.51	Ocean Sampling Day 2014	coastal
+39.1343	-9.38478	Ocean Sampling Day 2014	coastal
+39.4151	-9.21883	Ocean Sampling Day 2014	coastal
+37.167	-7.504	Ocean Sampling Day 2014	coastal
+51.7423	-8.3112	Ocean Sampling Day 2014	coastal
+29.4667	34.9291	Ocean Sampling Day 2014	coastal
+32.822	32.954	Ocean Sampling Day 2014	coastal
+34.3244	135.121	Ocean Sampling Day 2014	coastal
+55.0331	-1.43278	Ocean Sampling Day 2014	coastal
+66.0069	-18.1965	Ocean Sampling Day 2014	coastal
+66.0078	-18.1953	Ocean Sampling Day 2014	coastal
+65.4886	-18.0608	Ocean Sampling Day 2014	coastal
+65.8172	-18.1018	Ocean Sampling Day 2014	coastal
+43.1758	27.9086	Ocean Sampling Day 2014	coastal
+66.1316	-18.7902	Ocean Sampling Day 2014	coastal
+42.2449	27.4008	Ocean Sampling Day 2014	coastal
+32.0694	34.843	Ocean Sampling Day 2014	coastal
+-33.8971	18.3868	Ocean Sampling Day 2014	coastal
+42.49	3.15	Ocean Sampling Day 2014	coastal
+60.1612	5.11504	Ocean Sampling Day 2014	coastal
+31.3836	-80.8667	Ocean Sampling Day 2014	coastal
+31.9828	-81.0167	Ocean Sampling Day 2014	coastal
+21.2688	-157.722	Ocean Sampling Day 2014	coastal
+51.3614	3.11886	Ocean Sampling Day 2014	coastal
+78.4533	-2.82967	Ocean Sampling Day 2014	coastal
+8.5216	81.0521	Ocean Sampling Day 2014	coastal
+53.5809	8.14864	Ocean Sampling Day 2014	coastal
+-34.37	-54.16	Ocean Sampling Day 2014	coastal
+-34.6759	-54.2752	Ocean Sampling Day 2014	coastal
+-34.42	-54.16	Ocean Sampling Day 2014	coastal
+44.6936	-63.6403	Ocean Sampling Day 2014	coastal
+44.6936	-63.6403	Ocean Sampling Day 2014	coastal
+44.6936	-63.6403	Ocean Sampling Day 2014	coastal
+36.9977	-7.97312	Ocean Sampling Day 2014	coastal
+44.6667	-1.16666	Ocean Sampling Day 2014	coastal
+59.8162	10.5986	Ocean Sampling Day 2014	coastal
+59.8162	10.5986	Ocean Sampling Day 2014	coastal
+59.8996	10.72	Ocean Sampling Day 2014	coastal
+59.8996	10.72	Ocean Sampling Day 2014	coastal
+59.622	10.6282	Ocean Sampling Day 2014	coastal
+59.622	10.6282	Ocean Sampling Day 2014	coastal
+37.4328	-25.19	Ocean Sampling Day 2014	coastal
+48.359	-4.552	Ocean Sampling Day 2014	coastal
+43.6861	7.31567	Ocean Sampling Day 2014	coastal
+43.6861	7.31567	Ocean Sampling Day 2014	coastal
+56.9631	-2.1031	Ocean Sampling Day 2014	coastal
+58.957	-2.9726	Ocean Sampling Day 2014	coastal
+60.1433	-1.2825	Ocean Sampling Day 2014	coastal
+57.8498	-5.6495	Ocean Sampling Day 2014	coastal
+43.4325	2.89966	Ocean Sampling Day 2014	coastal
+65.7064	-18.1181	Ocean Sampling Day 2014	coastal
+38.4133	27.0342	Ocean Sampling Day 2014	coastal
+51.7961	1.01296	Ocean Sampling Day 2014	coastal
+51.4347	2.81087	Ocean Sampling Day 2014	coastal
+51.2695	2.9047	Ocean Sampling Day 2014	coastal
+51.3073	2.84933	Ocean Sampling Day 2014	coastal
+51.3749	3.21833	Ocean Sampling Day 2014	coastal
+51.441	3.13995	Ocean Sampling Day 2014	coastal
+51.4716	3.05917	Ocean Sampling Day 2014	coastal
+51.3348	2.50215	Ocean Sampling Day 2014	coastal
+51.2777	2.6135	Ocean Sampling Day 2014	coastal
+51.1857	2.70167	Ocean Sampling Day 2014	coastal
+51.5803	2.7897	Ocean Sampling Day 2014	coastal
+35.3637	33.2896	Ocean Sampling Day 2014	coastal
+51.4584	2.35047	Ocean Sampling Day 2014	coastal
+51.7483	2.698	Ocean Sampling Day 2014	coastal
+51.6829	2.4152	Ocean Sampling Day 2014	coastal
+51.4816	2.45148	Ocean Sampling Day 2014	coastal
+38.8855	-76.5416	Ocean Sampling Day 2014	coastal
+35	33	Ocean Sampling Day 2014	coastal
+48.7778	-3.9375	Ocean Sampling Day 2014	coastal
+64.2083	-22.015	Ocean Sampling Day 2014	coastal
+64.2083	-22.015	Ocean Sampling Day 2014	coastal
+45.08	13.61	Ocean Sampling Day 2014	coastal
+43.2264	5.74583	Ocean Sampling Day 2014	coastal
+35.1927	-2.88005	Ocean Sampling Day 2014	coastal
+35.0864	-2.21466	Ocean Sampling Day 2014	coastal
+35.82	-5.75	Ocean Sampling Day 2014	coastal
+16.8026	-88.0816	Ocean Sampling Day 2014	coastal
+27.4694	-80.2834	Ocean Sampling Day 2014	coastal
+54.1819	7.9	Ocean Sampling Day 2014	coastal
+59.8822	23.2538	Ocean Sampling Day 2014	coastal
+31.216	29.966	Ocean Sampling Day 2014	coastal
+38.6792	-76.1742	Ocean Sampling Day 2014	coastal
+39.3322	-75.4699	Ocean Sampling Day 2014	coastal
+26.1029	-80.0931	Ocean Sampling Day 2014	coastal
+24.7449	-80.7838	Ocean Sampling Day 2014	coastal
+32.7524	-79.8995	Ocean Sampling Day 2014	coastal
+40.808	14.25	Ocean Sampling Day 2014	coastal
+48.0405	-123.026	Ocean Sampling Day 2014	coastal
+38.2686	15.6371	Ocean Sampling Day 2014	coastal
+32.867	-117.257	Ocean Sampling Day 2014	coastal
+27.6158	-82.7259	Ocean Sampling Day 2014	coastal
+30.2484	-88.7483	Ocean Sampling Day 2014	coastal
+45.502	12.4176	Ocean Sampling Day 2014	coastal
+45.4125	12.5265	Ocean Sampling Day 2014	coastal
+45.3256	13.3319	Ocean Sampling Day 2014	coastal
+43.3333	-1.925	Ocean Sampling Day 2014	coastal
+9.3485	-82.266	Ocean Sampling Day 2014	coastal
+33.9126	27.0253	Ocean Sampling Day 2014	coastal
+33.907	27.0415	Ocean Sampling Day 2014	coastal
+43.8444	-69.6409	Ocean Sampling Day 2014	coastal
+43.8604	-69.5781	Ocean Sampling Day 2014	coastal
+21.2888	-156.864	Ocean Sampling Day 2014	coastal
+21.2866	-157.844	Ocean Sampling Day 2014	coastal
+34.7181	-76.6707	Ocean Sampling Day 2014	coastal
+35.661	24.99	Ocean Sampling Day 2014	coastal
+35.661	24.99	Ocean Sampling Day 2014	coastal
+41.6666	2.8	Ocean Sampling Day 2014	coastal
+33.3231	-79.1676	Ocean Sampling Day 2014	coastal
+41.5245	-70.6722	Ocean Sampling Day 2014	coastal
+53.2254	-4.15903	Ocean Sampling Day 2014	coastal
+45.3144	12.5083	Ocean Sampling Day 2014	coastal
+46.4416	30.7759	Ocean Sampling Day 2014	coastal
+-36.2928	174.819	Ocean Sampling Day 2014	coastal
+45.4568	12.2605	Ocean Sampling Day 2014	coastal
+-17.2894	-149.54	Ocean Sampling Day 2014	coastal
+45.4142	12.4378	Ocean Sampling Day 2014	coastal
+-45.7442	170.771	Ocean Sampling Day 2014	coastal
+54.8333	10	Ocean Sampling Day 2014	coastal
+41.6835	-8.8341	Ocean Sampling Day 2014	coastal
+41.1416	-8.6668	Ocean Sampling Day 2014	coastal
+43.9475	12.935	Ocean Sampling Day 2014	coastal
+43.8514	13.0731	Ocean Sampling Day 2014	coastal
+43.57	13.595	Ocean Sampling Day 2014	coastal
+74.31	-20.3043	Ocean Sampling Day 2014	coastal
+74.31	-20.3043	Ocean Sampling Day 2014	coastal
+37.0051	-7.97312	Ocean Sampling Day 2014	coastal
+38.4843	21.3169	Ocean Sampling Day 2014	coastal
+32.7467	-9.03667	Ocean Sampling Day 2014	coastal
+33.5839	-7.70064	Ocean Sampling Day 2014	coastal
+33.2596	-8.49922	Ocean Sampling Day 2014	coastal
+35.0864	-2.21466	Ocean Sampling Day 2014	coastal
+1.2685	103.917	Ocean Sampling Day 2014	coastal
+37.4257	-25.3156	Ocean Sampling Day 2014	coastal
+38.5297	-28.6018	Ocean Sampling Day 2014	coastal
+38.64	-28.13	Ocean Sampling Day 2014	coastal
+45.7009	13.71	Ocean Sampling Day 2014	coastal
+33.58	-118.38	Ocean Sampling Day 2014	coastal
+48.7778	-3.9375	Ocean Sampling Day 2014 LW	coastal
+54.1819	7.9	Ocean Sampling Day 2014 LW	coastal
+33.58	-118.38	Ocean Sampling Day 2014 LW	coastal
+42.49	3.15	Ocean Sampling Day 2014 LW	coastal
+43.2264	5.74583	Ocean Sampling Day 2014 LW	coastal
+59.8822	23.2538	Ocean Sampling Day 2014 LW	coastal
+26.1029	-80.0931	Ocean Sampling Day 2014 LW	coastal
+32.7524	-79.8995	Ocean Sampling Day 2014 LW	coastal
+32.867	-117.257	Ocean Sampling Day 2014 LW	coastal
+45.3256	13.3319	Ocean Sampling Day 2014 LW	coastal
+43.8444	-69.6409	Ocean Sampling Day 2014 LW	coastal
+43.8604	-69.5781	Ocean Sampling Day 2014 LW	coastal
+33.3231	-79.1676	Ocean Sampling Day 2014 LW	coastal
+-45.7442	170.771	Ocean Sampling Day 2014 LW	coastal
+54.8333	10	Ocean Sampling Day 2014 LW	coastal
+43.9475	12.935	Ocean Sampling Day 2014 LW	coastal
+43.8514	13.0731	Ocean Sampling Day 2014 LW	coastal
+74.31	-20.3043	Ocean Sampling Day 2014 LW	coastal
+45.7009	13.71	Ocean Sampling Day 2014 LW	coastal
+32.822	32.954	Ocean Sampling Day 2014 LW	coastal
+34.3244	135.121	Ocean Sampling Day 2014 LW	coastal
+32.0694	34.843	Ocean Sampling Day 2014 LW	coastal
+60.1612	5.11504	Ocean Sampling Day 2014 LW	coastal
+31.9828	-81.0167	Ocean Sampling Day 2014 LW	coastal
+78.4533	-2.82967	Ocean Sampling Day 2014 LW	coastal
+-34.37	-54.16	Ocean Sampling Day 2014 LW	coastal
+-34.6759	-54.2752	Ocean Sampling Day 2014 LW	coastal
+44.6936	-63.6403	Ocean Sampling Day 2014 LW	coastal
+48.359	-4.552	Ocean Sampling Day 2014 LW	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8398	23.251	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+59.8525	23.2582	Baltic Sea Gulf of Finland - 2012-2013	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2371	-58.8271	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2371	-58.8271	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2371	-58.8271	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2371	-58.8271	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2371	-58.8271	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2371	-58.8271	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2371	-58.8271	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2371	-58.8271	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2371	-58.8271	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+-62.2031	-58.9208	Antarctic Feldes Bay 2015	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+59.19	10.69	Norway Oslo fjord - TS - 2009-2011	coastal
+66.53	33.1	Arctic White Sea - 2013-2015	oceanic
+66.53	33.11	Arctic White Sea - 2013-2015	oceanic
+66.59	32.96	Arctic White Sea - 2013-2015	oceanic
+66.53	33.11	Arctic White Sea - 2013-2015	oceanic
+66.53	33.1	Arctic White Sea - 2013-2015	oceanic
+66.53	33.11	Arctic White Sea - 2013-2015	oceanic
+66.53	33.1	Arctic White Sea - 2013-2015	oceanic
+66.53	33.11	Arctic White Sea - 2013-2015	oceanic
+66.59	32.96	Arctic White Sea - 2013-2015	oceanic
+66.59	33.11	Arctic White Sea - 2013-2015	oceanic
+66.53	32.28	Arctic White Sea - 2013-2015	oceanic
+65.02	35.15	Arctic White Sea - 2013-2015	oceanic
+64.21	37.02	Arctic White Sea - 2013-2015	oceanic
+66.53	33.11	Arctic White Sea - 2013-2015	oceanic
+66.53	33.1	Arctic White Sea - 2013-2015	oceanic
+66.55	33.04	Arctic White Sea - 2013-2015	oceanic
+66.53	33.11	Arctic White Sea - 2013-2015	oceanic
+76.72	-71.6	Arctic_Baffin Bay - 2013	oceanic
+76.72	-71.6	Arctic_Baffin Bay - 2013	oceanic
+76.45	-71.65	Arctic_Baffin Bay - 2013	oceanic
+76.45	-71.65	Arctic_Baffin Bay - 2013	oceanic
+76.47	-71.41	Arctic_Baffin Bay - 2013	oceanic
+76.47	-71.41	Arctic_Baffin Bay - 2013	oceanic
+76.47	-71.41	Arctic_Baffin Bay - 2013	oceanic
+76.47	-71.41	Arctic_Baffin Bay - 2013	oceanic
+76.47	-71.44	Arctic_Baffin Bay - 2013	oceanic
+76.47	-71.44	Arctic_Baffin Bay - 2013	oceanic
+76.42	-71.33	Arctic_Baffin Bay - 2013	oceanic
+76.42	-71.33	Arctic_Baffin Bay - 2013	oceanic
+76.42	-71.33	Arctic_Baffin Bay - 2013	oceanic
+76.42	-71.33	Arctic_Baffin Bay - 2013	oceanic
+76.47	-71.44	Arctic_Baffin Bay - 2013	oceanic
+76.47	-71.44	Arctic_Baffin Bay - 2013	oceanic
+76.39	-76.39	Arctic_Baffin Bay - 2013	oceanic
+76.39	-76.39	Arctic_Baffin Bay - 2013	oceanic
+76.57	-76.57	Arctic_Baffin Bay - 2013	oceanic
+76.57	-76.57	Arctic_Baffin Bay - 2013	oceanic
+76.6	-76.6	Arctic_Baffin Bay - 2013	oceanic
+76.6	-76.6	Arctic_Baffin Bay - 2013	oceanic
+76.6	-76.6	Arctic_Baffin Bay - 2013	oceanic
+76.6	-76.6	Arctic_Baffin Bay - 2013	oceanic
+76.61	-76.61	Arctic_Baffin Bay - 2013	oceanic
+76.61	-76.61	Arctic_Baffin Bay - 2013	oceanic
+76.45	-76.45	Arctic_Baffin Bay - 2013	oceanic
+76.45	-76.45	Arctic_Baffin Bay - 2013	oceanic
+76.45	-76.45	Arctic_Baffin Bay - 2013	oceanic
+76.45	-76.45	Arctic_Baffin Bay - 2013	oceanic
+76.45	-76.45	Arctic_Baffin Bay - 2013	oceanic
+76.45	-76.45	Arctic_Baffin Bay - 2013	oceanic
+84.3748	17.4537	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+84.0505	31.1138	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+83.9865	78.1033	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+85.1018	122.245	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+81.9255	131.129	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+87.9335	61.2173	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+88.8277	58.8635	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+82.6707	109.59	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+82.8825	130.13	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+81.9255	131.129	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+88.8277	58.8635	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+84.0505	31.1138	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+83.9865	78.1033	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+82.6707	109.59	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+82.8825	130.13	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+85.1018	122.245	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+88.8277	58.8635	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+84.0505	31.1138	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+84.0505	31.1138	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+84.3748	17.4537	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+83.919	75.9815	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+84.0505	31.1138	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+82.6707	109.59	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+82.8825	130.13	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+88.8277	58.8635	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+87.9335	61.2173	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+87.9335	61.2173	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+87.9335	61.2173	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+87.9335	61.2173	Arctic Polarstern expedition ARK-XXVII/3 - 2012	oceanic
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+54.5175	18.5566	Baltic Sea Gdansk Gulf - 2012	coastal
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+81.3669	-63.9571	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+80.8004	-67.2972	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.998	-69.7569	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.3501	-71.8651	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0062	-70.4914	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+79.0009	-73.2022	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3228	-75.7026	Arctic Nares Strait - 2014	oceanic
+77.3167	-76.0966	Arctic Nares Strait - 2014	oceanic
+77.3167	-76.0966	Arctic Nares Strait - 2014	oceanic
+77.3167	-76.0966	Arctic Nares Strait - 2014	oceanic
+77.3167	-76.0966	Arctic Nares Strait - 2014	oceanic
+77.3167	-76.0966	Arctic Nares Strait - 2014	oceanic
+77.3167	-76.0966	Arctic Nares Strait - 2014	oceanic
+77.3167	-76.0966	Arctic Nares Strait - 2014	oceanic
+77.3167	-76.0966	Arctic Nares Strait - 2014	oceanic
+77.3167	-76.0966	Arctic Nares Strait - 2014	oceanic
+78.3007	-74.5327	Arctic Nares Strait - 2014	oceanic
+78.3007	-74.5327	Arctic Nares Strait - 2014	oceanic
+78.3007	-74.5327	Arctic Nares Strait - 2014	oceanic
+78.3007	-74.5327	Arctic Nares Strait - 2014	oceanic
+78.3007	-74.5327	Arctic Nares Strait - 2014	oceanic
+78.3007	-74.5327	Arctic Nares Strait - 2014	oceanic
+78.3007	-74.5327	Arctic Nares Strait - 2014	oceanic
+78.3007	-74.5327	Arctic Nares Strait - 2014	oceanic
+78.3007	-74.5327	Arctic Nares Strait - 2014	oceanic
+78.3007	-74.5327	Arctic Nares Strait - 2014	oceanic
+78.3007	-74.5327	Arctic Nares Strait - 2014	oceanic
+79.5542	-70.5141	Arctic Nares Strait - 2014	oceanic
+79.5542	-70.5141	Arctic Nares Strait - 2014	oceanic
+79.5542	-70.5141	Arctic Nares Strait - 2014	oceanic
+79.5542	-70.5141	Arctic Nares Strait - 2014	oceanic
+79.5542	-70.5141	Arctic Nares Strait - 2014	oceanic
+79.5542	-70.5141	Arctic Nares Strait - 2014	oceanic
+79.5542	-70.5141	Arctic Nares Strait - 2014	oceanic
+79.5542	-70.5141	Arctic Nares Strait - 2014	oceanic
+79.5542	-70.5141	Arctic Nares Strait - 2014	oceanic
+79.5542	-70.5141	Arctic Nares Strait - 2014	oceanic
+79.5542	-70.5141	Arctic Nares Strait - 2014	oceanic
+79.5542	-70.5141	Arctic Nares Strait - 2014	oceanic
+71.3798	-70.0712	Arctic Nares Strait - 2014	oceanic
+71.3798	-70.0712	Arctic Nares Strait - 2014	oceanic
+71.3798	-70.0712	Arctic Nares Strait - 2014	oceanic
+71.3798	-70.0712	Arctic Nares Strait - 2014	oceanic
+71.3798	-70.0712	Arctic Nares Strait - 2014	oceanic
+71.3798	-70.0712	Arctic Nares Strait - 2014	oceanic
+71.3798	-70.0712	Arctic Nares Strait - 2014	oceanic
+71.3798	-70.0712	Arctic Nares Strait - 2014	oceanic
+71.3798	-70.0712	Arctic Nares Strait - 2014	oceanic
+71.3798	-70.0712	Arctic Nares Strait - 2014	oceanic
+71.3798	-70.0712	Arctic Nares Strait - 2014	oceanic
+71.3798	-70.0712	Arctic Nares Strait - 2014	oceanic
+71.3122	-127.581	Arctic Nares Strait - 2014	oceanic
+71.3122	-127.581	Arctic Nares Strait - 2014	oceanic
+71.3122	-127.581	Arctic Nares Strait - 2014	oceanic
+71.3122	-127.581	Arctic Nares Strait - 2014	oceanic
+71.3122	-127.581	Arctic Nares Strait - 2014	oceanic
+71.3122	-127.581	Arctic Nares Strait - 2014	oceanic
+71.3122	-127.581	Arctic Nares Strait - 2014	oceanic
+71.3122	-127.581	Arctic Nares Strait - 2014	oceanic
+71.3122	-127.581	Arctic Nares Strait - 2014	oceanic
+71.3122	-127.581	Arctic Nares Strait - 2014	oceanic
+71.3122	-127.581	Arctic Nares Strait - 2014	oceanic
+71.3122	-127.581	Arctic Nares Strait - 2014	oceanic
+81.3501	-62.7788	Arctic Nares Strait - 2014	oceanic
+81.3501	-62.7788	Arctic Nares Strait - 2014	oceanic
+81.3501	-62.7788	Arctic Nares Strait - 2014	oceanic
+81.3501	-62.7788	Arctic Nares Strait - 2014	oceanic
+81.3501	-62.7788	Arctic Nares Strait - 2014	oceanic
+81.3501	-62.7788	Arctic Nares Strait - 2014	oceanic
+81.3501	-62.7788	Arctic Nares Strait - 2014	oceanic
+81.3501	-62.7788	Arctic Nares Strait - 2014	oceanic
+81.3501	-62.7788	Arctic Nares Strait - 2014	oceanic
+81.3501	-62.7788	Arctic Nares Strait - 2014	oceanic
+81.3501	-62.7788	Arctic Nares Strait - 2014	oceanic
+81.3501	-62.7788	Arctic Nares Strait - 2014	oceanic
+79.9815	-69.7862	Arctic Nares Strait - 2014	oceanic
+79.9815	-69.7862	Arctic Nares Strait - 2014	oceanic
+79.9815	-69.7862	Arctic Nares Strait - 2014	oceanic
+79.9815	-69.7862	Arctic Nares Strait - 2014	oceanic
+79.9815	-69.7862	Arctic Nares Strait - 2014	oceanic
+79.9815	-69.7862	Arctic Nares Strait - 2014	oceanic
+79.9815	-69.7862	Arctic Nares Strait - 2014	oceanic
+79.9815	-69.7862	Arctic Nares Strait - 2014	oceanic
+79.9815	-69.7862	Arctic Nares Strait - 2014	oceanic
+79.9815	-69.7862	Arctic Nares Strait - 2014	oceanic
+79.9815	-69.7862	Arctic Nares Strait - 2014	oceanic
+62.966	-80.2177	Arctic Ocean Survey - 2005-2011	oceanic
+62.966	-80.2177	Arctic Ocean Survey - 2005-2011	oceanic
+60.0005	-78.4377	Arctic Ocean Survey - 2005-2011	oceanic
+60.0005	-78.4377	Arctic Ocean Survey - 2005-2011	oceanic
+54.7125	-80.7125	Arctic Ocean Survey - 2005-2011	oceanic
+54.7123	-80.7125	Arctic Ocean Survey - 2005-2011	oceanic
+60.5053	-85.013	Arctic Ocean Survey - 2005-2011	oceanic
+60.5053	-85.013	Arctic Ocean Survey - 2005-2011	oceanic
+58.7735	-91.5338	Arctic Ocean Survey - 2005-2011	oceanic
+58.7735	-91.5338	Arctic Ocean Survey - 2005-2011	oceanic
+58.7735	-91.5338	Arctic Ocean Survey - 2005-2011	oceanic
+74.124	-83.3448	Arctic Ocean Survey - 2005-2011	oceanic
+74.2378	-89.6578	Arctic Ocean Survey - 2005-2011	oceanic
+74.2378	-89.6578	Arctic Ocean Survey - 2005-2011	oceanic
+69.0005	-106.586	Arctic Ocean Survey - 2005-2011	oceanic
+69.0005	-106.586	Arctic Ocean Survey - 2005-2011	oceanic
+78.328	-74.3555	Arctic Ocean Survey - 2005-2011	oceanic
+78.328	-74.3555	Arctic Ocean Survey - 2005-2011	oceanic
+76.2988	-71.4302	Arctic Ocean Survey - 2005-2011	oceanic
+76.2988	-71.4302	Arctic Ocean Survey - 2005-2011	oceanic
+76.2668	-74.5833	Arctic Ocean Survey - 2005-2011	oceanic
+76.2668	-74.5833	Arctic Ocean Survey - 2005-2011	oceanic
+76.3583	-77.5067	Arctic Ocean Survey - 2005-2011	oceanic
+76.3583	-77.5067	Arctic Ocean Survey - 2005-2011	oceanic
+75.2727	-74.978	Arctic Ocean Survey - 2005-2011	oceanic
+75.2727	-74.978	Arctic Ocean Survey - 2005-2011	oceanic
+75.2727	-74.978	Arctic Ocean Survey - 2005-2011	oceanic
+77.3413	-74.6395	Arctic Ocean Survey - 2005-2011	oceanic
+77.3413	-74.6395	Arctic Ocean Survey - 2005-2011	oceanic
+77.75	126	Arctic Ocean Survey - 2005-2011	oceanic
+79.4167	126	Arctic Ocean Survey - 2005-2011	oceanic
+80.7833	138.733	Arctic Ocean Survey - 2005-2011	oceanic
+79.9433	142.394	Arctic Ocean Survey - 2005-2011	oceanic
+80.45	161.25	Arctic Ocean Survey - 2005-2011	oceanic
+80.45	161.25	Arctic Ocean Survey - 2005-2011	oceanic
+75.5017	126	Arctic Ocean Survey - 2005-2011	oceanic
+65.6855	-168.669	Chukchi Sea - ICESCAPE - 2010	oceanic
+65.988	-168.923	Chukchi Sea - ICESCAPE - 2010	oceanic
+67.3434	-166.807	Chukchi Sea - ICESCAPE - 2010	oceanic
+70.3595	-163.986	Chukchi Sea - ICESCAPE - 2010	oceanic
+70.7044	-168.923	Chukchi Sea - ICESCAPE - 2010	oceanic
+70.0961	-163.368	Chukchi Sea - ICESCAPE - 2010	oceanic
+72.3879	-168.191	Chukchi Sea - ICESCAPE - 2010	oceanic
+71.677	-164.016	Chukchi Sea - ICESCAPE - 2010	oceanic
+71.051	-159.488	Chukchi Sea - ICESCAPE - 2010	oceanic
+71.7335	-156.102	Chukchi Sea - ICESCAPE - 2010	oceanic
+72.6248	-162.656	Chukchi Sea - ICESCAPE - 2010	oceanic
+65.6855	-168.669	Chukchi Sea - ICESCAPE - 2010	oceanic
+65.988	-168.923	Chukchi Sea - ICESCAPE - 2010	oceanic
+67.3434	-166.807	Chukchi Sea - ICESCAPE - 2010	oceanic
+67.6767	-168.962	Chukchi Sea - ICESCAPE - 2010	oceanic
+70.3595	-163.986	Chukchi Sea - ICESCAPE - 2010	oceanic
+70.7044	-168.923	Chukchi Sea - ICESCAPE - 2010	oceanic
+70.0961	-163.368	Chukchi Sea - ICESCAPE - 2010	oceanic
+72.3879	-168.191	Chukchi Sea - ICESCAPE - 2010	oceanic
+71.677	-164.016	Chukchi Sea - ICESCAPE - 2010	oceanic
+71.051	-159.488	Chukchi Sea - ICESCAPE - 2010	oceanic
+71.7335	-156.102	Chukchi Sea - ICESCAPE - 2010	oceanic
+72.6248	-162.656	Chukchi Sea - ICESCAPE - 2010	oceanic
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+41.6667	2.8	Spain Blanes Time Series - 2004-2013	coastal
+23.274	-22.2222	Malaspina expedition 2010-2011	oceanic
+23.274	-22.2222	Malaspina expedition 2010-2011	oceanic
+23.274	-22.2222	Malaspina expedition 2010-2011	oceanic
+23.274	-22.2222	Malaspina expedition 2010-2011	oceanic
+23.274	-22.2222	Malaspina expedition 2010-2011	oceanic
+23.274	-22.2222	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-3.41033	-169.462	Malaspina expedition 2010-2011	oceanic
+-3.41033	-169.462	Malaspina expedition 2010-2011	oceanic
+-3.41033	-169.462	Malaspina expedition 2010-2011	oceanic
+-3.41033	-169.462	Malaspina expedition 2010-2011	oceanic
+-3.41033	-169.462	Malaspina expedition 2010-2011	oceanic
+-3.41	-169.463	Malaspina expedition 2010-2011	oceanic
+-3.41033	-169.462	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+26.911	-32.8365	Malaspina expedition 2010-2011	oceanic
+26.911	-32.8365	Malaspina expedition 2010-2011	oceanic
+26.911	-32.8365	Malaspina expedition 2010-2011	oceanic
+26.911	-32.8365	Malaspina expedition 2010-2011	oceanic
+26.911	-32.8365	Malaspina expedition 2010-2011	oceanic
+23.274	-22.2222	Malaspina expedition 2010-2011	oceanic
+23.274	-22.2222	Malaspina expedition 2010-2011	oceanic
+23.274	-22.2222	Malaspina expedition 2010-2011	oceanic
+23.274	-22.2222	Malaspina expedition 2010-2011	oceanic
+23.274	-22.2222	Malaspina expedition 2010-2011	oceanic
+23.274	-22.2222	Malaspina expedition 2010-2011	oceanic
+23.274	-22.2222	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-4.77867	-28.1687	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-25.8682	-27.5673	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-30.8817	0.967833	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-33.9072	37.0422	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.3535	69.4	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-29.574	96.4073	Malaspina expedition 2010-2011	oceanic
+-3.41033	-169.462	Malaspina expedition 2010-2011	oceanic
+-3.41033	-169.462	Malaspina expedition 2010-2011	oceanic
+-3.41033	-169.462	Malaspina expedition 2010-2011	oceanic
+-3.41033	-169.462	Malaspina expedition 2010-2011	oceanic
+-3.41033	-169.462	Malaspina expedition 2010-2011	oceanic
+-3.41	-169.463	Malaspina expedition 2010-2011	oceanic
+-3.41033	-169.462	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+6.99217	-164.372	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+17.3703	-130.611	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+10.7585	-102.442	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+14.158	-71.6733	Malaspina expedition 2010-2011	oceanic
+26.911	-32.8365	Malaspina expedition 2010-2011	oceanic
+26.911	-32.8365	Malaspina expedition 2010-2011	oceanic
+26.911	-32.8365	Malaspina expedition 2010-2011	oceanic
+26.911	-32.8365	Malaspina expedition 2010-2011	oceanic
+26.911	-32.8365	Malaspina expedition 2010-2011	oceanic
+26.911	-32.8365	Malaspina expedition 2010-2011	oceanic
+26.911	-32.8365	Malaspina expedition 2010-2011	oceanic
+35.135	-9.517	Malaspina expedition 2010-2011	oceanic
+34.001	-12.781	Malaspina expedition 2010-2011	oceanic
+29.683	-17.288	Malaspina expedition 2010-2011	oceanic
+28.702	-18.871	Malaspina expedition 2010-2011	oceanic
+24.972	-21.053	Malaspina expedition 2010-2011	oceanic
+21.45	-23.455	Malaspina expedition 2010-2011	oceanic
+16.164	-26.026	Malaspina expedition 2010-2011	oceanic
+14.52	-26	Malaspina expedition 2010-2011	oceanic
+9.564	-25.993	Malaspina expedition 2010-2011	oceanic
+7.324	-25.996	Malaspina expedition 2010-2011	oceanic
+4.989	-26.005	Malaspina expedition 2010-2011	oceanic
+2.457	-26.009	Malaspina expedition 2010-2011	oceanic
+-3.03	-27.326	Malaspina expedition 2010-2011	oceanic
+-4.779	-28.169	Malaspina expedition 2010-2011	oceanic
+-7.283	-29.322	Malaspina expedition 2010-2011	oceanic
+-13.736	-32.376	Malaspina expedition 2010-2011	oceanic
+-15.831	-33.403	Malaspina expedition 2010-2011	oceanic
+-18.424	-34.644	Malaspina expedition 2010-2011	oceanic
+-21.093	-35.972	Malaspina expedition 2010-2011	oceanic
+-22.955	-36.925	Malaspina expedition 2010-2011	oceanic
+-24.315	-36.222	Malaspina expedition 2010-2011	oceanic
+-24.792	-33.476	Malaspina expedition 2010-2011	oceanic
+-25.427	-30.07	Malaspina expedition 2010-2011	oceanic
+-25.868	-27.567	Malaspina expedition 2010-2011	oceanic
+-26.947	-21.4	Malaspina expedition 2010-2011	oceanic
+-27.553	-18.089	Malaspina expedition 2010-2011	oceanic
+-28.091	-14.791	Malaspina expedition 2010-2011	oceanic
+-29.767	-5.315	Malaspina expedition 2010-2011	oceanic
+-30.262	-2.435	Malaspina expedition 2010-2011	oceanic
+-30.882	0.968	Malaspina expedition 2010-2011	oceanic
+-31.308	3.749	Malaspina expedition 2010-2011	oceanic
+-31.832	6.857	Malaspina expedition 2010-2011	oceanic
+-32.813	12.769	Malaspina expedition 2010-2011	oceanic
+-33.233	15.34	Malaspina expedition 2010-2011	oceanic
+-35.136	25.563	Malaspina expedition 2010-2011	oceanic
+-34.837	27.549	Malaspina expedition 2010-2011	oceanic
+-34.44	31.112	Malaspina expedition 2010-2011	oceanic
+-33.907	37.042	Malaspina expedition 2010-2011	oceanic
+-33.563	39.885	Malaspina expedition 2010-2011	oceanic
+-33.194	43.248	Malaspina expedition 2010-2011	oceanic
+-30.055	61.431	Malaspina expedition 2010-2011	oceanic
+-27.978	63.248	Malaspina expedition 2010-2011	oceanic
+-28.128	66.493	Malaspina expedition 2010-2011	oceanic
+-29.561	72.444	Malaspina expedition 2010-2011	oceanic
+-29.828	79.611	Malaspina expedition 2010-2011	oceanic
+-29.811	82.623	Malaspina expedition 2010-2011	oceanic
+-29.749	86.257	Malaspina expedition 2010-2011	oceanic
+-29.627	92.984	Malaspina expedition 2010-2011	oceanic
+-29.574	96.407	Malaspina expedition 2010-2011	oceanic
+-30.333	103.308	Malaspina expedition 2010-2011	oceanic
+-30.328	103.317	Malaspina expedition 2010-2011	oceanic
+-30.811	107.237	Malaspina expedition 2010-2011	oceanic
+-31.134	110.207	Malaspina expedition 2010-2011	oceanic
+-31.554	113.467	Malaspina expedition 2010-2011	oceanic
+-31.554	113.467	Malaspina expedition 2010-2011	oceanic
+-35.983	117.407	Malaspina expedition 2010-2011	oceanic
+-36.639	120.856	Malaspina expedition 2010-2011	oceanic
+-37.239	124.898	Malaspina expedition 2010-2011	oceanic
+-37.239	124.898	Malaspina expedition 2010-2011	oceanic
+-38.578	131.507	Malaspina expedition 2010-2011	oceanic
+-39.243	135.139	Malaspina expedition 2010-2011	oceanic
+-39.867	138.735	Malaspina expedition 2010-2011	oceanic
+-40.55	142.497	Malaspina expedition 2010-2011	oceanic
+-38.621	150.417	Malaspina expedition 2010-2011	oceanic
+-36.642	151.006	Malaspina expedition 2010-2011	oceanic
+-34.056	176.016	Malaspina expedition 2010-2011	oceanic
+-25.49	-179.524	Malaspina expedition 2010-2011	oceanic
+-23.377	-178.211	Malaspina expedition 2010-2011	oceanic
+-18.561	-175.823	Malaspina expedition 2010-2011	oceanic
+-15.903	-174.487	Malaspina expedition 2010-2011	oceanic
+-13.531	-173.372	Malaspina expedition 2010-2011	oceanic
+-11.242	-172.63	Malaspina expedition 2010-2011	oceanic
+-9.474	-172.298	Malaspina expedition 2010-2011	oceanic
+-3.41	-169.463	Malaspina expedition 2010-2011	oceanic
+-1.303	-168.354	Malaspina expedition 2010-2011	oceanic
+1.599	-166.85	Malaspina expedition 2010-2011	oceanic
+3.748	-165.773	Malaspina expedition 2010-2011	oceanic
+6.992	-164.372	Malaspina expedition 2010-2011	oceanic
+9.201	-163.495	Malaspina expedition 2010-2011	oceanic
+11.593	-162.41	Malaspina expedition 2010-2011	oceanic
+21.89	-155.664	Malaspina expedition 2010-2011	oceanic
+21.57	-153.418	Malaspina expedition 2010-2011	oceanic
+21.064	-150.319	Malaspina expedition 2010-2011	oceanic
+20.784	-148.269	Malaspina expedition 2010-2011	oceanic
+19.892	-141.59	Malaspina expedition 2010-2011	oceanic
+19.279	-138.965	Malaspina expedition 2010-2011	oceanic
+18.653	-136.178	Malaspina expedition 2010-2011	oceanic
+18.028	-133.26	Malaspina expedition 2010-2011	oceanic
+17.37	-130.611	Malaspina expedition 2010-2011	oceanic
+15.909	-124.47	Malaspina expedition 2010-2011	oceanic
+14.529	-118.774	Malaspina expedition 2010-2011	oceanic
+13.804	-115.756	Malaspina expedition 2010-2011	oceanic
+13.205	-113.256	Malaspina expedition 2010-2011	oceanic
+12.001	-108.076	Malaspina expedition 2010-2011	oceanic
+11.354	-105.011	Malaspina expedition 2010-2011	oceanic
+10.759	-102.442	Malaspina expedition 2010-2011	oceanic
+10.093	-99.246	Malaspina expedition 2010-2011	oceanic
+9.446	-96.341	Malaspina expedition 2010-2011	oceanic
+8.142	-90.365	Malaspina expedition 2010-2011	oceanic
+7.224	-87.96	Malaspina expedition 2010-2011	oceanic
+5.912	-84.795	Malaspina expedition 2010-2011	oceanic
+12.363	-74.039	Malaspina expedition 2010-2011	oceanic
+14.158	-71.673	Malaspina expedition 2010-2011	oceanic
+15.069	-69.295	Malaspina expedition 2010-2011	oceanic
+15.525	-67.014	Malaspina expedition 2010-2011	oceanic
+17.427	-59.828	Malaspina expedition 2010-2011	oceanic
+18.064	-57.803	Malaspina expedition 2010-2011	oceanic
+18.996	-55.15	Malaspina expedition 2010-2011	oceanic
+19.99	-52.637	Malaspina expedition 2010-2011	oceanic
+20.804	-50.143	Malaspina expedition 2010-2011	oceanic
+22.863	-44.528	Malaspina expedition 2010-2011	oceanic
+23.735	-41.902	Malaspina expedition 2010-2011	oceanic
+24.845	-38.71	Malaspina expedition 2010-2011	oceanic
+26.11	-35.258	Malaspina expedition 2010-2011	oceanic
+26.911	-32.837	Malaspina expedition 2010-2011	oceanic
+28.875	-26.951	Malaspina expedition 2010-2011	oceanic
+29.967	-23.686	Malaspina expedition 2010-2011	oceanic
+30.966	-20.65	Malaspina expedition 2010-2011	oceanic
+32.079	-17.266	Malaspina expedition 2010-2011	oceanic
+40.8083	14.25	Italy Bay of Naples - 2011	coastal
+40.8083	14.25	Italy Bay of Naples - 2011	coastal
+40.8083	14.25	Italy Bay of Naples - 2011	coastal
+40.8083	14.25	Italy Bay of Naples - 2011	coastal
+40.8083	14.25	Italy Bay of Naples - 2011	coastal
+40.8083	14.25	Italy Bay of Naples - 2011	coastal
+40.8083	14.25	Italy Bay of Naples - 2011	coastal
+40.8083	14.25	Italy Bay of Naples - 2011	coastal
+14.5741	69.9988	Tara Ocean	oceanic
+14.6059	69.9776	Tara Ocean	oceanic
+14.6059	69.9776	Tara Ocean	oceanic
+14.6067	69.9775	Tara Ocean	oceanic
+14.5566	70.0107	Tara Ocean	oceanic
+14.5536	70.0128	Tara Ocean	oceanic
+14.5536	70.0128	Tara Ocean	oceanic
+14.5644	70.0096	Tara Ocean	oceanic
+33.9184	32.86	Tara Ocean	oceanic
+33.9179	32.898	Tara Ocean	oceanic
+33.9178	32.8849	Tara Ocean	oceanic
+33.9235	32.8118	Tara Ocean	oceanic
+33.9189	32.8532	Tara Ocean	oceanic
+37.0242	1.9486	Tara Ocean	oceanic
+37.051	1.9378	Tara Ocean	oceanic
+37.051	1.9378	Tara Ocean	oceanic
+37.0299	1.9575	Tara Ocean	oceanic
+37.018	1.9476	Tara Ocean	oceanic
+37.0541	1.9478	Tara Ocean	oceanic
+37.0541	1.9478	Tara Ocean	oceanic
+37.0112	1.946	Tara Ocean	oceanic
+-25.8073	-111.736	Tara Ocean	oceanic
+-25.8051	-111.72	Tara Ocean	oceanic
+-25.8105	-111.733	Tara Ocean	oceanic
+-25.8162	-111.735	Tara Ocean	oceanic
+-25.826	-111.729	Tara Ocean	oceanic
+-25.8162	-111.735	Tara Ocean	oceanic
+-25.8076	-111.691	Tara Ocean	oceanic
+-25.8076	-111.691	Tara Ocean	oceanic
+2.0574	-84.5546	Tara Ocean	oceanic
+2.0399	-84.5599	Tara Ocean	oceanic
+1.9928	-84.5766	Tara Ocean	oceanic
+1.9928	-84.5766	Tara Ocean	oceanic
+1.9958	-84.576	Tara Ocean	oceanic
+2.0218	-84.5652	Tara Ocean	oceanic
+2.0299	-84.5546	Tara Ocean	oceanic
+2.0299	-84.5546	Tara Ocean	oceanic
+2.0218	-84.5652	Tara Ocean	oceanic
+2.0649	-84.5546	Tara Ocean	oceanic
+2.0649	-84.5546	Tara Ocean	oceanic
+-32.2188	17.7054	Tara Ocean	oceanic
+-32.12	17.6987	Tara Ocean	oceanic
+-32.2401	17.7103	Tara Ocean	oceanic
+-32.2401	17.7103	Tara Ocean	oceanic
+-32.1745	17.6991	Tara Ocean	oceanic
+-29.5018	37.9887	Tara Ocean	oceanic
+-29.4991	37.9938	Tara Ocean	oceanic
+-29.5019	37.9889	Tara Ocean	oceanic
+-29.4985	37.9926	Tara Ocean	oceanic
+-29.5015	37.9946	Tara Ocean	oceanic
+-29.5333	37.9117	Tara Ocean	oceanic
+-29.4964	37.9974	Tara Ocean	oceanic
+-16.9567	53.9809	Tara Ocean	oceanic
+-16.9616	53.9541	Tara Ocean	oceanic
+-16.957	53.9801	Tara Ocean	oceanic
+-16.9672	53.9337	Tara Ocean	oceanic
+-16.9538	54.0043	Tara Ocean	oceanic
+-16.9534	53.9601	Tara Ocean	oceanic
+-16.9534	53.9601	Tara Ocean	oceanic
+-16.953	53.9825	Tara Ocean	oceanic
+-12.9359	-96.0413	Tara Ocean	oceanic
+-12.9488	-96.0293	Tara Ocean	oceanic
+-13.0023	-95.9759	Tara Ocean	oceanic
+-13.0023	-95.9759	Tara Ocean	oceanic
+-12.991	-95.9893	Tara Ocean	oceanic
+-12.9214	-96.0953	Tara Ocean	oceanic
+-12.9723	-96.0122	Tara Ocean	oceanic
+-12.9723	-96.0122	Tara Ocean	oceanic
+-12.9119	-96.1101	Tara Ocean	oceanic
+-12.9794	-96.0232	Tara Ocean	oceanic
+-12.9794	-96.0232	Tara Ocean	oceanic
+20.8215	63.512	Tara Ocean	oceanic
+20.8183	63.5047	Tara Ocean	oceanic
+20.8183	63.5047	Tara Ocean	oceanic
+20.8183	63.5047	Tara Ocean	oceanic
+20.807	63.513	Tara Ocean	oceanic
+20.8222	63.5133	Tara Ocean	oceanic
+20.8222	63.5133	Tara Ocean	oceanic
+20.8116	63.5128	Tara Ocean	oceanic
+0.2153	71.8436	Tara Ocean	oceanic
+0.0033	71.6428	Tara Ocean	oceanic
+0.0023	71.6311	Tara Ocean	oceanic
+39.0856	5.7927	Tara Ocean	oceanic
+39.1633	5.916	Tara Ocean	oceanic
+39.0862	5.78	Tara Ocean	oceanic
+39.0609	5.9422	Tara Ocean	oceanic
+-30.1506	-43.2877	Tara Ocean	oceanic
+-30.2163	-43.275	Tara Ocean	oceanic
+-30.1367	-43.2899	Tara Ocean	oceanic
+-30.1367	-43.2899	Tara Ocean	oceanic
+-30.1872	-43.2834	Tara Ocean	oceanic
+-30.052	-43.2619	Tara Ocean	oceanic
+-30.1484	-43.2705	Tara Ocean	oceanic
+-30.1484	-43.2705	Tara Ocean	oceanic
+-30.1403	-43.2641	Tara Ocean	oceanic
+-30.1471	-43.2915	Tara Ocean	oceanic
+-30.1471	-43.2915	Tara Ocean	oceanic
+-8.7726	-17.915	Tara Ocean	oceanic
+-8.7277	-17.9235	Tara Ocean	oceanic
+-8.7789	-17.9099	Tara Ocean	oceanic
+-8.7484	-17.9179	Tara Ocean	oceanic
+-8.757	-17.9245	Tara Ocean	oceanic
+-8.6831	-18.0095	Tara Ocean	oceanic
+-8.7296	-17.9604	Tara Ocean	oceanic
+-8.7296	-17.9604	Tara Ocean	oceanic
+-8.6996	-17.9926	Tara Ocean	oceanic
+-8.7986	-17.9034	Tara Ocean	oceanic
+39.2143	19.406	Tara Ocean	oceanic
+39.3888	19.3905	Tara Ocean	oceanic
+39.3888	19.3905	Tara Ocean	oceanic
+39.3885	19.3906	Tara Ocean	oceanic
+39.3833	19.4183	Tara Ocean	oceanic
+39.3991	19.3997	Tara Ocean	oceanic
+39.3991	19.3997	Tara Ocean	oceanic
+39.4046	19.3886	Tara Ocean	oceanic
+-5.2692	-85.2121	Tara Ocean	oceanic
+-5.252	-85.2052	Tara Ocean	oceanic
+-5.2529	-85.1545	Tara Ocean	oceanic
+-5.2529	-85.1545	Tara Ocean	oceanic
+-5.2514	-85.1696	Tara Ocean	oceanic
+-5.2669	-85.2732	Tara Ocean	oceanic
+-5.2669	-85.2732	Tara Ocean	oceanic
+-5.2669	-85.2732	Tara Ocean	oceanic
+-5.2686	-85.248	Tara Ocean	oceanic
+-5.261	-85.1678	Tara Ocean	oceanic
+42.1916	17.7175	Tara Ocean	oceanic
+42.2038	17.715	Tara Ocean	oceanic
+42.2038	17.715	Tara Ocean	oceanic
+42.1735	17.7175	Tara Ocean	oceanic
+42.1646	17.736	Tara Ocean	oceanic
+42.1735	17.7252	Tara Ocean	oceanic
+42.1735	17.7252	Tara Ocean	oceanic
+42.1694	17.7179	Tara Ocean	oceanic
+35.7405	14.3238	Tara Ocean	oceanic
+35.759	14.2574	Tara Ocean	oceanic
+35.759	14.2574	Tara Ocean	oceanic
+35.7444	14.3083	Tara Ocean	oceanic
+35.7528	14.2765	Tara Ocean	oceanic
+35.7528	14.2765	Tara Ocean	oceanic
+35.7528	14.2765	Tara Ocean	oceanic
+35.7528	14.2765	Tara Ocean	oceanic
+-31.0266	4.665	Tara Ocean	oceanic
+-31.0551	4.668	Tara Ocean	oceanic
+-31.0292	4.6742	Tara Ocean	oceanic
+-31.027	4.6802	Tara Ocean	oceanic
+-31.027	4.6802	Tara Ocean	oceanic
+-31.0198	4.6685	Tara Ocean	oceanic
+-31.0198	4.6685	Tara Ocean	oceanic
+-34.9363	17.9366	Tara Ocean	oceanic
+-34.9449	17.9189	Tara Ocean	oceanic
+-34.9449	17.9189	Tara Ocean	oceanic
+-34.8986	18.03	Tara Ocean	oceanic
+-34.8901	18.0459	Tara Ocean	oceanic
+-34.8901	18.0459	Tara Ocean	oceanic
+-35.1808	26.2879	Tara Ocean	oceanic
+-35.1728	26.2868	Tara Ocean	oceanic
+-35.1728	26.2868	Tara Ocean	oceanic
+-35.2351	26.3022	Tara Ocean	oceanic
+-35.2421	26.3048	Tara Ocean	oceanic
+-35.2421	26.3048	Tara Ocean	oceanic
+-35.1889	26.2905	Tara Ocean	oceanic
+18.4	39.86	Tara Ocean	oceanic
+18.3967	39.875	Tara Ocean	oceanic
+18.3967	39.8767	Tara Ocean	oceanic
+18.4917	39.8583	Tara Ocean	oceanic
+18.4417	39.8567	Tara Ocean	oceanic
+18.4417	39.8567	Tara Ocean	oceanic
+18.4183	39.865	Tara Ocean	oceanic
+-47.1899	-58.2724	Tara Ocean	oceanic
+-47.2002	-58.2034	Tara Ocean	oceanic
+-47.1863	-58.2902	Tara Ocean	oceanic
+-47.1863	-58.2902	Tara Ocean	oceanic
+-47.1966	-58.2349	Tara Ocean	oceanic
+-47.2116	-58.0266	Tara Ocean	oceanic
+-47.2007	-57.9446	Tara Ocean	oceanic
+-47.2007	-57.9446	Tara Ocean	oceanic
+-47.2007	-57.9446	Tara Ocean	oceanic
+-60.2584	-60.6226	Tara Ocean	oceanic
+-60.4016	-60.4488	Tara Ocean	oceanic
+-60.2287	-60.6476	Tara Ocean	oceanic
+-60.2287	-60.6476	Tara Ocean	oceanic
+-60.3046	-60.5715	Tara Ocean	oceanic
+-20.9406	-35.196	Tara Ocean	oceanic
+-20.9724	-35.2724	Tara Ocean	oceanic
+-20.9354	-35.1803	Tara Ocean	oceanic
+-20.9354	-35.1803	Tara Ocean	oceanic
+-20.9514	-35.2273	Tara Ocean	oceanic
+-21.004	-35.3168	Tara Ocean	oceanic
+-21.092	-35.417	Tara Ocean	oceanic
+-21.0292	-35.3498	Tara Ocean	oceanic
+-21.0292	-35.3498	Tara Ocean	oceanic
+-21.0716	-35.3964	Tara Ocean	oceanic
+-20.9315	-35.1794	Tara Ocean	oceanic
+-20.9315	-35.1794	Tara Ocean	oceanic
+20.8457	63.5851	Tara Ocean	oceanic
+20.8457	63.5851	Tara Ocean	oceanic
+-9.4153	66.303	Tara Ocean	oceanic
+27.1483	34.8117	Tara Ocean	oceanic
+27.16	34.83	Tara Ocean	oceanic
+27.155	34.83	Tara Ocean	oceanic
+22.085	38.2083	Tara Ocean	oceanic
+21.9467	38.2517	Tara Ocean	oceanic
+21.9467	38.2517	Tara Ocean	oceanic
+22.1233	38.1983	Tara Ocean	oceanic
+6.0098	74.0607	Tara Ocean	oceanic
+6.0001	73.8955	Tara Ocean	oceanic
+6.0001	73.8955	Tara Ocean	oceanic
+6.0019	73.8949	Tara Ocean	oceanic
+5.9996	73.8994	Tara Ocean	oceanic
+5.9998	73.9067	Tara Ocean	oceanic
+5.9998	73.9067	Tara Ocean	oceanic
+5.9994	73.8978	Tara Ocean	oceanic
+-20.4035	-3.1859	Tara Ocean	oceanic
+-20.4107	-3.1775	Tara Ocean	oceanic
+-20.4091	-3.1759	Tara Ocean	oceanic
+-20.4091	-3.1759	Tara Ocean	oceanic
+-20.3943	-3.2085	Tara Ocean	oceanic
+-20.4075	-3.1641	Tara Ocean	oceanic
+-20.4075	-3.1641	Tara Ocean	oceanic
+-62.0773	-49.4534	Tara Ocean	oceanic
+-62.0385	-49.529	Tara Ocean	oceanic
+-62.0385	-49.529	Tara Ocean	oceanic
+-62.0385	-49.529	Tara Ocean	oceanic
+-62.14	-49.3273	Tara Ocean	oceanic
+-62.1943	-49.2502	Tara Ocean	oceanic
+-62.21	-49.2245	Tara Ocean	oceanic
+-62.2231	-49.2139	Tara Ocean	oceanic
+-62.2231	-49.2139	Tara Ocean	oceanic
+-62.2024	-49.2382	Tara Ocean	oceanic
+-61.9689	-49.5017	Tara Ocean	oceanic
+-61.9689	-49.5017	Tara Ocean	oceanic
+36.5533	-6.5669	Tara Ocean	oceanic
+36.5533	-6.5669	Tara Ocean	oceanic
+36.5533	-6.5669	Tara Ocean	oceanic
+36.5533	-6.5669	Tara Ocean	oceanic
+36.5533	-6.5669	Tara Ocean	oceanic
+19.0359	64.511	Tara Ocean	oceanic
+19.0393	64.4913	Tara Ocean	oceanic
+19.0393	64.4913	Tara Ocean	oceanic
+19.0199	64.5315	Tara Ocean	oceanic
+19.0284	64.5126	Tara Ocean	oceanic
+19.0235	64.5256	Tara Ocean	oceanic
+19.0351	64.5638	Tara Ocean	oceanic
+23.3733	37.2167	Tara Ocean	oceanic
+23.36	37.2183	Tara Ocean	oceanic
+23.36	37.2183	Tara Ocean	oceanic
+23.36	37.2183	Tara Ocean	oceanic
+23.4183	37.245	Tara Ocean	oceanic
+23.4183	37.245	Tara Ocean	oceanic
+23.4183	37.245	Tara Ocean	oceanic
+23.41	37.2383	Tara Ocean	oceanic
+36.5533	-6.5669	Tara Ocean	oceanic
+2.815	71.534	Tara Ocean	oceanic
+0.0033	71.6428	Tara Ocean	oceanic
+-9.3921	66.4228	Tara Ocean	oceanic
+-31.0536	4.6742	Tara Ocean	oceanic
+-8.7986	-17.9034	Tara Ocean	oceanic
+-8.7789	-17.9099	Tara Ocean	oceanic
+-47.2007	-57.9446	Tara Ocean	oceanic
+-25.8051	-111.72	Tara Ocean	oceanic
+-5.261	-85.1678	Tara Ocean	oceanic
+2.0299	-84.5546	Tara Ocean	oceanic
+39.0609	5.9422	Tara Ocean	oceanic
+39.1633	5.916	Tara Ocean	oceanic
+41.6686	2.7996	Tara Ocean	oceanic
+41.6686	2.7996	Tara Ocean	oceanic
+41.6663	2.7994	Tara Ocean	oceanic
+41.6666	2.7962	Tara Ocean	oceanic
+37.4532	15.4596	Tara Ocean	oceanic
+37.4532	15.4596	Tara Ocean	oceanic
+37.4956	15.4945	Tara Ocean	oceanic
+37.4956	15.4945	Tara Ocean	oceanic
+34.453	14.9538	Tara Ocean	oceanic
+34.453	14.9538	Tara Ocean	oceanic
+34.4933	14.9133	Tara Ocean	oceanic
+34.4064	15.043	Tara Ocean	oceanic
+39.5705	17.4101	Tara Ocean	oceanic
+39.5705	17.4101	Tara Ocean	oceanic
+39.8661	17.3868	Tara Ocean	oceanic
+39.8312	17.3952	Tara Ocean	oceanic
+39.8386	17.4155	Tara Ocean	oceanic
+39.8386	17.4155	Tara Ocean	oceanic
+39.814	17.4138	Tara Ocean	oceanic
+39.8607	17.4105	Tara Ocean	oceanic
+42.4552	17.9348	Tara Ocean	oceanic
+42.456	17.9393	Tara Ocean	oceanic
+42.4593	17.9594	Tara Ocean	oceanic
+38.4761	20.1705	Tara Ocean	oceanic
+38.4735	20.1718	Tara Ocean	oceanic
+38.4367	20.1875	Tara Ocean	oceanic
+33.9235	32.8118	Tara Ocean	oceanic
+33.9179	32.898	Tara Ocean	oceanic
+22.1233	38.1983	Tara Ocean	oceanic
+18.4417	39.8567	Tara Ocean	oceanic
+20.8457	63.5851	Tara Ocean	oceanic
+19.0284	64.5126	Tara Ocean	oceanic
+19.0351	64.5638	Tara Ocean	oceanic
+19.0351	64.5638	Tara Ocean	oceanic
+19.0393	64.4913	Tara Ocean	oceanic
+18.5839	66.4727	Tara Ocean	oceanic
+18.5745	66.4895	Tara Ocean	oceanic
+18.5584	66.4725	Tara Ocean	oceanic
+18.7341	66.3896	Tara Ocean	oceanic
+18.7341	66.3896	Tara Ocean	oceanic
+18.7341	66.3896	Tara Ocean	oceanic
+18.5918	66.622	Tara Ocean	oceanic
+18.5667	66.522	Tara Ocean	oceanic
+18.5743	66.5029	Tara Ocean	oceanic
+17.5294	67.9576	Tara Ocean	oceanic
+17.4825	67.9869	Tara Ocean	oceanic
+17.4814	67.9947	Tara Ocean	oceanic
+17.4847	67.9997	Tara Ocean	oceanic
+17.4831	68.0026	Tara Ocean	oceanic
+17.4855	68.0247	Tara Ocean	oceanic
+17.4855	68.0247	Tara Ocean	oceanic
+-29.5333	37.9117	Tara Ocean	oceanic
+-29.5046	37.9599	Tara Ocean	oceanic
+-31.0507	4.6603	Tara Ocean	oceanic
+-31.0266	4.665	Tara Ocean	oceanic
+-25.826	-111.729	Tara Ocean	oceanic
+-12.9723	-96.0122	Tara Ocean	oceanic
+-5.2537	-85.2221	Tara Ocean	oceanic
+-16.9587	-100.675	Tara Ocean	oceanic
+-16.9587	-100.675	Tara Ocean	oceanic
+-16.9587	-100.675	Tara Ocean	oceanic
+-16.9763	-100.679	Tara Ocean	oceanic
+-16.9741	-100.668	Tara Ocean	oceanic
+-16.9486	-100.672	Tara Ocean	oceanic
+-16.9486	-100.672	Tara Ocean	oceanic
+-16.9601	-100.633	Tara Ocean	oceanic
+-16.9601	-100.633	Tara Ocean	oceanic
+-16.9601	-100.633	Tara Ocean	oceanic
+-16.9554	-100.691	Tara Ocean	oceanic
+-16.9581	-100.659	Tara Ocean	oceanic
+-9.0063	-139.139	Tara Ocean	oceanic
+-9.0063	-139.139	Tara Ocean	oceanic
+-8.9543	-139.26	Tara Ocean	oceanic
+-8.9748	-139.209	Tara Ocean	oceanic
+-8.957	-139.242	Tara Ocean	oceanic
+-8.9729	-139.239	Tara Ocean	oceanic
+-8.9729	-139.239	Tara Ocean	oceanic
+-8.9971	-139.196	Tara Ocean	oceanic
+-8.9971	-139.196	Tara Ocean	oceanic
+-8.996	-139.281	Tara Ocean	oceanic
+-9.006	-139.206	Tara Ocean	oceanic
+-8.9948	-139.217	Tara Ocean	oceanic
+-8.9109	-140.285	Tara Ocean	oceanic
+-8.9109	-140.285	Tara Ocean	oceanic
+-8.903	-140.28	Tara Ocean	oceanic
+-8.8923	-140.29	Tara Ocean	oceanic
+-8.8995	-140.287	Tara Ocean	oceanic
+-8.9109	-140.285	Tara Ocean	oceanic
+-8.9109	-140.285	Tara Ocean	oceanic
+-8.9109	-140.285	Tara Ocean	oceanic
+-8.9109	-140.285	Tara Ocean	oceanic
+-8.9109	-140.285	Tara Ocean	oceanic
+-8.9068	-140.283	Tara Ocean	oceanic
+-8.9068	-140.283	Tara Ocean	oceanic
+-8.8984	-140.309	Tara Ocean	oceanic
+-8.9056	-140.279	Tara Ocean	oceanic
+-8.8932	-140.288	Tara Ocean	oceanic
+-9.0714	-140.597	Tara Ocean	oceanic
+-9.0714	-140.597	Tara Ocean	oceanic
+-9.0727	-140.592	Tara Ocean	oceanic
+-9.1504	-140.522	Tara Ocean	oceanic
+-9.1504	-140.522	Tara Ocean	oceanic
+-9.1504	-140.522	Tara Ocean	oceanic
+-9.1504	-140.522	Tara Ocean	oceanic
+-9.1504	-140.522	Tara Ocean	oceanic
+-9.1463	-140.515	Tara Ocean	oceanic
+-9.1508	-140.497	Tara Ocean	oceanic
+-8.8999	-142.546	Tara Ocean	oceanic
+-8.8999	-142.546	Tara Ocean	oceanic
+-8.9058	-142.618	Tara Ocean	oceanic
+-8.8946	-142.594	Tara Ocean	oceanic
+-8.9063	-142.612	Tara Ocean	oceanic
+-8.9111	-142.557	Tara Ocean	oceanic
+-8.9111	-142.557	Tara Ocean	oceanic
+-8.9124	-142.559	Tara Ocean	oceanic
+-8.894	-142.631	Tara Ocean	oceanic
+-8.892	-142.636	Tara Ocean	oceanic
+0.0307	-84.612	Tara Ocean	oceanic
+0.0307	-84.612	Tara Ocean	oceanic
+0.0307	-84.612	Tara Ocean	oceanic
+0.1069	-84.6236	Tara Ocean	oceanic
+0.0676	-84.6088	Tara Ocean	oceanic
+0.0063	-84.585	Tara Ocean	oceanic
+0.0063	-84.585	Tara Ocean	oceanic
+-0.0283	-84.5862	Tara Ocean	oceanic
+-0.0283	-84.5862	Tara Ocean	oceanic
+0.0247	-84.6024	Tara Ocean	oceanic
+-0.0141	-84.5899	Tara Ocean	oceanic
+0.0561	-84.6261	Tara Ocean	oceanic
+40.7003	2.873	Tara Ocean	oceanic
+40.7003	2.873	Tara Ocean	oceanic
+40.6769	2.8658	Tara Ocean	oceanic
+40.69	2.8658	Tara Ocean	oceanic
+40.6433	2.8751	Tara Ocean	oceanic
+40.6769	2.8662	Tara Ocean	oceanic
+-1.9002	-84.6265	Tara Ocean	oceanic
+-1.9002	-84.6265	Tara Ocean	oceanic
+-1.9002	-84.6265	Tara Ocean	oceanic
+-1.8155	-84.629	Tara Ocean	oceanic
+-1.8902	-84.6141	Tara Ocean	oceanic
+-1.8902	-84.6141	Tara Ocean	oceanic
+-2.0133	-84.589	Tara Ocean	oceanic
+-2.0133	-84.589	Tara Ocean	oceanic
+-2.0133	-84.589	Tara Ocean	oceanic
+-1.9778	-84.5992	Tara Ocean	oceanic
+-1.9389	-84.611	Tara Ocean	oceanic
+-23.2189	-129.5	Tara Ocean	oceanic
+-23.2189	-129.5	Tara Ocean	oceanic
+-23.2142	-129.631	Tara Ocean	oceanic
+-23.2488	-129.461	Tara Ocean	oceanic
+-23.2232	-129.599	Tara Ocean	oceanic
+-23.2811	-129.395	Tara Ocean	oceanic
+-23.2811	-129.395	Tara Ocean	oceanic
+-23.2166	-129.623	Tara Ocean	oceanic
+-23.2545	-129.447	Tara Ocean	oceanic
+-23.1108	-134.933	Tara Ocean	oceanic
+-23.1108	-134.933	Tara Ocean	oceanic
+-23.1107	-134.933	Tara Ocean	oceanic
+-23.1107	-134.933	Tara Ocean	oceanic
+-23.1162	-134.933	Tara Ocean	oceanic
+-23.1595	-134.924	Tara Ocean	oceanic
+-23.1594	-134.924	Tara Ocean	oceanic
+-23.1594	-134.924	Tara Ocean	oceanic
+-23.2317	-134.961	Tara Ocean	oceanic
+-23.2318	-134.928	Tara Ocean	oceanic
+-23.2319	-134.962	Tara Ocean	oceanic
+-23.2329	-134.961	Tara Ocean	oceanic
+-23.2229	-134.961	Tara Ocean	oceanic
+-23.233	-134.961	Tara Ocean	oceanic
+-23.1571	-135.018	Tara Ocean	oceanic
+-23.1571	-135.031	Tara Ocean	oceanic
+-23.1571	-135.018	Tara Ocean	oceanic
+-23.1571	-135.018	Tara Ocean	oceanic
+-23.1571	-135.018	Tara Ocean	oceanic
+-23.1571	-135.018	Tara Ocean	oceanic
+-23.0244	-134.923	Tara Ocean	oceanic
+-23.0244	-134.923	Tara Ocean	oceanic
+-23.0246	-134.923	Tara Ocean	oceanic
+-1.8155	-84.629	Tara Ocean	oceanic
+-23.0242	-134.923	Tara Ocean	oceanic
+-23.0246	-134.923	Tara Ocean	oceanic
+-23.073	-135.018	Tara Ocean	oceanic
+-23.0731	-135.018	Tara Ocean	oceanic
+-23.0731	-135.018	Tara Ocean	oceanic
+-11.9873	-151.05	Tara Ocean	oceanic
+-11.9873	-151.05	Tara Ocean	oceanic
+-11.9668	-151.241	Tara Ocean	oceanic
+-11.9715	-151.188	Tara Ocean	oceanic
+-11.9805	-151.119	Tara Ocean	oceanic
+-6.628	-152.461	Tara Ocean	oceanic
+-6.628	-152.461	Tara Ocean	oceanic
+-6.6382	-152.514	Tara Ocean	oceanic
+-6.6344	-152.548	Tara Ocean	oceanic
+-6.633	-152.525	Tara Ocean	oceanic
+-6.6499	-152.424	Tara Ocean	oceanic
+-6.6499	-152.424	Tara Ocean	oceanic
+-6.605	-152.508	Tara Ocean	oceanic
+-6.6264	-152.448	Tara Ocean	oceanic
+-6.6226	-152.48	Tara Ocean	oceanic
+0.0222	-153.686	Tara Ocean	oceanic
+0.0222	-153.686	Tara Ocean	oceanic
+0.001	-153.639	Tara Ocean	oceanic
+0.0396	-153.807	Tara Ocean	oceanic
+0.0348	-153.786	Tara Ocean	oceanic
+0.0003	-153.676	Tara Ocean	oceanic
+0.0003	-153.676	Tara Ocean	oceanic
+0.0078	-153.626	Tara Ocean	oceanic
+0.008	-153.702	Tara Ocean	oceanic
+0.0193	-153.749	Tara Ocean	oceanic
+6.6112	-153.054	Tara Ocean	oceanic
+6.6112	-153.054	Tara Ocean	oceanic
+6.6433	-153.084	Tara Ocean	oceanic
+6.6261	-153.07	Tara Ocean	oceanic
+6.8156	-153.103	Tara Ocean	oceanic
+6.671	-153.066	Tara Ocean	oceanic
+6.671	-153.066	Tara Ocean	oceanic
+6.8381	-153.106	Tara Ocean	oceanic
+6.7379	-153.081	Tara Ocean	oceanic
+43.3346	7.9026	Tara Ocean	oceanic
+43.3529	7.8988	Tara Ocean	oceanic
+11.2521	-152.454	Tara Ocean	oceanic
+22.7901	-157.944	Tara Ocean	oceanic
+22.7901	-157.944	Tara Ocean	oceanic
+22.7281	-158.091	Tara Ocean	oceanic
+22.7384	-158.072	Tara Ocean	oceanic
+22.7478	-158.051	Tara Ocean	oceanic
+22.7546	-158.007	Tara Ocean	oceanic
+22.7546	-158.007	Tara Ocean	oceanic
+22.7598	-157.957	Tara Ocean	oceanic
+22.7598	-157.957	Tara Ocean	oceanic
+22.7091	-158.025	Tara Ocean	oceanic
+22.7267	-157.995	Tara Ocean	oceanic
+22.7511	-157.963	Tara Ocean	oceanic
+31.5168	-159.046	Tara Ocean	oceanic
+31.528	-159.022	Tara Ocean	oceanic
+31.5213	-158.996	Tara Ocean	oceanic
+31.5213	-158.996	Tara Ocean	oceanic
+31.4901	-159.067	Tara Ocean	oceanic
+31.5024	-159.039	Tara Ocean	oceanic
+35.4002	-127.75	Tara Ocean	oceanic
+35.2698	-127.727	Tara Ocean	oceanic
+35.3671	-127.742	Tara Ocean	oceanic
+35.3671	-127.742	Tara Ocean	oceanic
+35.3888	-127.742	Tara Ocean	oceanic
+35.4	-127.743	Tara Ocean	oceanic
+35.4155	-127.741	Tara Ocean	oceanic
+32.931	-121.865	Tara Ocean	oceanic
+32.9903	-121.846	Tara Ocean	oceanic
+32.9909	-121.852	Tara Ocean	oceanic
+33.0339	-121.878	Tara Ocean	oceanic
+33.008	-121.758	Tara Ocean	oceanic
+32.9986	-121.77	Tara Ocean	oceanic
+33.0007	-121.87	Tara Ocean	oceanic
+33.02	-121.741	Tara Ocean	oceanic
+14.2075	-116.647	Tara Ocean	oceanic
+14.2075	-116.647	Tara Ocean	oceanic
+14.1957	-116.729	Tara Ocean	oceanic
+14.1987	-116.716	Tara Ocean	oceanic
+14.2005	-116.703	Tara Ocean	oceanic
+14.2025	-116.643	Tara Ocean	oceanic
+14.2025	-116.643	Tara Ocean	oceanic
+14.2035	-116.626	Tara Ocean	oceanic
+14.2035	-116.626	Tara Ocean	oceanic
+14.1853	-116.684	Tara Ocean	oceanic
+14.1927	-116.647	Tara Ocean	oceanic
+14.2004	-116.64	Tara Ocean	oceanic
+6.3378	-102.954	Tara Ocean	oceanic
+6.3378	-102.954	Tara Ocean	oceanic
+6.3356	-103.04	Tara Ocean	oceanic
+6.339	-103.034	Tara Ocean	oceanic
+6.3363	-103.075	Tara Ocean	oceanic
+6.3559	-103.06	Tara Ocean	oceanic
+6.3559	-103.06	Tara Ocean	oceanic
+7.4122	-79.3017	Tara Ocean	oceanic
+7.4122	-79.3017	Tara Ocean	oceanic
+7.4161	-79.3071	Tara Ocean	oceanic
+7.4169	-79.317	Tara Ocean	oceanic
+7.4236	-79.3211	Tara Ocean	oceanic
+9.8481	-80.0454	Tara Ocean	oceanic
+9.8466	-80.1338	Tara Ocean	oceanic
+25.5773	-88.4308	Tara Ocean	oceanic
+25.5264	-88.394	Tara Ocean	oceanic
+25.5264	-88.394	Tara Ocean	oceanic
+29.851	-79.7064	Tara Ocean	oceanic
+36.3698	-72.9669	Tara Ocean	oceanic
+36.3489	-72.7896	Tara Ocean	oceanic
+36.3385	-72.7366	Tara Ocean	oceanic
+39.2392	-70.0343	Tara Ocean	oceanic
+39.2305	-70.0377	Tara Ocean	oceanic
+39.194	-70.0499	Tara Ocean	oceanic
+39.2077	-70.034	Tara Ocean	oceanic
+34.0771	-49.8233	Tara Ocean	oceanic
+39.91	12.8266	Tara Ocean	oceanic
+36.253	14.3033	Tara Ocean	oceanic
+36.2749	14.3068	Tara Ocean	oceanic
+34.2116	13.7684	Tara Ocean	oceanic
+34.2116	13.7684	Tara Ocean	oceanic
+34.217	13.9616	Tara Ocean	oceanic
+34.2189	13.891	Tara Ocean	oceanic
+37.5057	17.2174	Tara Ocean	oceanic
+37.5057	17.2174	Tara Ocean	oceanic
+37.5152	17.3171	Tara Ocean	oceanic
+18.5839	66.4727	Tara Ocean	oceanic
+18.5918	66.622	Tara Ocean	oceanic
+4.6599	73.4856	Tara Ocean	oceanic
+4.6599	73.4856	Tara Ocean	oceanic
+4.66	73.4856	Tara Ocean	oceanic
+4.6595	73.4888	Tara Ocean	oceanic
+-0.6625	73.161	Tara Ocean	oceanic
+-0.6625	73.161	Tara Ocean	oceanic
+-0.6625	73.1611	Tara Ocean	oceanic
+-0.6623	73.1629	Tara Ocean	oceanic
+-21.4966	56.9011	Tara Ocean	oceanic
+-21.4788	56.8291	Tara Ocean	oceanic
+-21.493	56.8858	Tara Ocean	oceanic
+-21.4689	54.3066	Tara Ocean	oceanic
+-21.4689	54.3066	Tara Ocean	oceanic
+-21.4836	54.3312	Tara Ocean	oceanic
+-21.5043	54.3563	Tara Ocean	oceanic
+-21.4752	54.3236	Tara Ocean	oceanic
+-21.4994	54.3486	Tara Ocean	oceanic
+-21.4593	54.3041	Tara Ocean	oceanic
+-13.0833	46.971	Tara Ocean	oceanic
+-13.0655	46.9692	Tara Ocean	oceanic
+-13.0781	46.9706	Tara Ocean	oceanic
+-13.0619	46.9692	Tara Ocean	oceanic
+-12.807	45.2247	Tara Ocean	oceanic
+-12.807	45.2247	Tara Ocean	oceanic
+-12.807	45.2248	Tara Ocean	oceanic
+-12.8071	45.2249	Tara Ocean	oceanic
+-17.0248	42.7401	Tara Ocean	oceanic
+-17.0248	42.7401	Tara Ocean	oceanic
+-17.0244	42.7415	Tara Ocean	oceanic
+-17.2855	42.2866	Tara Ocean	oceanic
+-17.2855	42.2866	Tara Ocean	oceanic
+-17.3066	42.2853	Tara Ocean	oceanic
+-17.3401	42.2821	Tara Ocean	oceanic
+-17.5869	42.1893	Tara Ocean	oceanic
+-17.4962	42.2173	Tara Ocean	oceanic
+-17.5263	42.2073	Tara Ocean	oceanic
+-17.5705	42.2769	Tara Ocean	oceanic
+36.0469	-4.3555	Tara Ocean	oceanic
+36.0469	-4.3555	Tara Ocean	oceanic
+36.0322	-4.4493	Tara Ocean	oceanic
+36.0088	-4.5184	Tara Ocean	oceanic
+36.0088	-4.5184	Tara Ocean	oceanic
+36.0322	-4.4493	Tara Ocean	oceanic
+-22.3368	40.3412	Tara Ocean	oceanic
+-22.3368	40.3412	Tara Ocean	oceanic
+-22.3369	40.0193	Tara Ocean	oceanic
+-22.3369	40.3412	Tara Ocean	oceanic
+-31.027	4.6802	Tara Ocean	oceanic
+36.5103	-3.9747	Tara Ocean	oceanic
+36.5229	-4.0023	Tara Ocean	oceanic
+36.5229	-4.0023	Tara Ocean	oceanic
+36.5158	-3.9942	Tara Ocean	oceanic
+-9.3	-9.5587	Tara Ocean	oceanic
+-9.3	-9.5587	Tara Ocean	oceanic
+-9.2612	-9.68	Tara Ocean	oceanic
+-9.28	-9.6193	Tara Ocean	oceanic
+-9.2942	-9.5714	Tara Ocean	oceanic
+-40.6241	-51.9229	Tara Ocean	oceanic
+-40.6241	-51.9229	Tara Ocean	oceanic
+-40.6154	-51.9351	Tara Ocean	oceanic
+-40.6083	-51.9557	Tara Ocean	oceanic
+-40.6511	-52.182	Tara Ocean	oceanic
+-40.6297	-52.0503	Tara Ocean	oceanic
+-40.6487	-52.1511	Tara Ocean	oceanic
+-44.5913	-52.1804	Tara Ocean	oceanic
+-44.5838	-52.1952	Tara Ocean	oceanic
+-44.5582	-52.2718	Tara Ocean	oceanic
+-44.6474	-52.1308	Tara Ocean	oceanic
+-44.5342	-52.455	Tara Ocean	oceanic
+-44.5342	-52.455	Tara Ocean	oceanic
+-44.6241	-52.1505	Tara Ocean	oceanic
+-44.5455	-52.3242	Tara Ocean	oceanic
+-54.3739	-65.1342	Tara Ocean	oceanic
+-54.3739	-65.1342	Tara Ocean	oceanic
+-54.3826	-65.051	Tara Ocean	oceanic
+-62.2024	-49.2382	Tara Ocean	oceanic
+-62.14	-49.3273	Tara Ocean	oceanic
+-64.3183	-53.1081	Tara Ocean	oceanic
+-64.3183	-53.1081	Tara Ocean	oceanic
+-64.3183	-53.1081	Tara Ocean	oceanic
+-64.3369	-53.1308	Tara Ocean	oceanic
+-64.3595	-53.0063	Tara Ocean	oceanic
+-64.3595	-53.0063	Tara Ocean	oceanic
+-64.358	-53.0534	Tara Ocean	oceanic
+-64.3373	-52.9847	Tara Ocean	oceanic
+-64.3327	-53.0731	Tara Ocean	oceanic
+-63.8768	-56.0916	Tara Ocean	oceanic
+-63.8768	-56.0916	Tara Ocean	oceanic
+-63.8768	-56.0916	Tara Ocean	oceanic
+-63.8768	-56.0916	Tara Ocean	oceanic
+-63.8767	-56.091	Tara Ocean	oceanic
+-63.4015	-56.7938	Tara Ocean	oceanic
+-63.4015	-56.7938	Tara Ocean	oceanic
+-63.3815	-56.8047	Tara Ocean	oceanic
+-63.3944	-56.7958	Tara Ocean	oceanic
+-57.7338	-67.1084	Tara Ocean	oceanic
+-57.7338	-67.1084	Tara Ocean	oceanic
+-57.7338	-67.1084	Tara Ocean	oceanic
+-57.7739	-66.9698	Tara Ocean	oceanic
+-57.7558	-67.0324	Tara Ocean	oceanic
+38.0093	3.9712	Tara Ocean	oceanic
+38.0093	3.9712	Tara Ocean	oceanic
+38.002	3.9679	Tara Ocean	oceanic
+38.0066	3.9841	Tara Ocean	oceanic
+38.0026	3.9992	Tara Ocean	oceanic
+38.0017	3.9718	Tara Ocean	oceanic
+38.0022	3.9906	Tara Ocean	oceanic
+-39.6466	-76.9634	Tara Ocean	oceanic
+-39.6466	-76.9634	Tara Ocean	oceanic
+-39.5788	-76.9941	Tara Ocean	oceanic
+-39.6049	-76.9812	Tara Ocean	oceanic
+-34.161	-73.0995	Tara Ocean	oceanic
+-34.173	-73.0814	Tara Ocean	oceanic
+-34.1684	-73.0906	Tara Ocean	oceanic
+-34.1673	-73.0902	Tara Ocean	oceanic
+-33.6895	-71.998	Tara Ocean	oceanic
+-33.6895	-71.998	Tara Ocean	oceanic
+-33.6737	-71.9641	Tara Ocean	oceanic
+-33.6771	-71.9719	Tara Ocean	oceanic
+-33.688	-71.9903	Tara Ocean	oceanic
+-33.9116	-73.0537	Tara Ocean	oceanic
+-33.9116	-73.0537	Tara Ocean	oceanic
+-33.9116	-73.0537	Tara Ocean	oceanic
+-33.9477	-73.0635	Tara Ocean	oceanic
+-34.0614	-73.1066	Tara Ocean	oceanic
+-34.0614	-73.1066	Tara Ocean	oceanic
+-34.0614	-73.1066	Tara Ocean	oceanic
+-34.0614	-73.1066	Tara Ocean	oceanic
+-34.0374	-73.09	Tara Ocean	oceanic
+-32.7971	-87.0693	Tara Ocean	oceanic
+-32.7969	-87.086	Tara Ocean	oceanic
+-32.7954	-87.0839	Tara Ocean	oceanic
+-32.7404	-87.0992	Tara Ocean	oceanic
+-31.4424	-93.9597	Tara Ocean	oceanic
+-31.3727	-93.9387	Tara Ocean	oceanic
+-31.4424	-93.9597	Tara Ocean	oceanic
+-31.409	-93.9464	Tara Ocean	oceanic
+-29.668	-101.229	Tara Ocean	oceanic
+-29.668	-101.229	Tara Ocean	oceanic
+-29.6254	-101.363	Tara Ocean	oceanic
+-29.7238	-101.16	Tara Ocean	oceanic
+-29.6597	-101.235	Tara Ocean	oceanic
+-29.6954	-101.19	Tara Ocean	oceanic
+-29.646	-101.292	Tara Ocean	oceanic
+-28.1874	-107.638	Tara Ocean	oceanic
+-28.1874	-107.638	Tara Ocean	oceanic
+-28.1874	-107.638	Tara Ocean	oceanic
+-28.1814	-107.599	Tara Ocean	oceanic
+-28.1762	-107.402	Tara Ocean	oceanic
+-28.1698	-107.383	Tara Ocean	oceanic
+-28.1698	-107.383	Tara Ocean	oceanic
+-28.1698	-107.383	Tara Ocean	oceanic
+-28.2025	-107.566	Tara Ocean	oceanic
+-28.1237	-107.55	Tara Ocean	oceanic
+-21.146	-104.787	Tara Ocean	oceanic
+-21.146	-104.787	Tara Ocean	oceanic
+-21.1584	-104.831	Tara Ocean	oceanic
+-21.1526	-104.812	Tara Ocean	oceanic
+-21.1472	-104.796	Tara Ocean	oceanic
+40.688	2.8652	Tara Ocean	oceanic
+-23.2232	-129.599	Tara Ocean	oceanic
+-23.0244	-134.923	Tara Ocean	oceanic
+6.671	-153.066	Tara Ocean	oceanic
+11.2723	-152.371	Tara Ocean	oceanic
+11.2723	-152.371	Tara Ocean	oceanic
+11.2678	-152.397	Tara Ocean	oceanic
+31.5168	-159.046	Tara Ocean	oceanic
+31.471	-159.101	Tara Ocean	oceanic
+31.4794	-159.09	Tara Ocean	oceanic
+31.5237	-159.035	Tara Ocean	oceanic
+31.528	-159.022	Tara Ocean	oceanic
+31.4868	-159.075	Tara Ocean	oceanic
+35.4002	-127.75	Tara Ocean	oceanic
+35.4135	-127.705	Tara Ocean	oceanic
+35.3915	-127.777	Tara Ocean	oceanic
+35.3802	-127.803	Tara Ocean	oceanic
+35.2698	-127.727	Tara Ocean	oceanic
+32.7526	-122.001	Tara Ocean	oceanic
+32.7526	-122.001	Tara Ocean	oceanic
+32.6744	-121.992	Tara Ocean	oceanic
+32.931	-121.865	Tara Ocean	oceanic
+32.9916	-121.854	Tara Ocean	oceanic
+33.0339	-121.878	Tara Ocean	oceanic
+32.9986	-121.77	Tara Ocean	oceanic
+17.0854	-118.891	Tara Ocean	oceanic
+17.0854	-118.891	Tara Ocean	oceanic
+17.0149	-118.917	Tara Ocean	oceanic
+17.0552	-118.901	Tara Ocean	oceanic
+17.0769	-118.896	Tara Ocean	oceanic
+6.3332	-102.943	Tara Ocean	oceanic
+6.3332	-102.943	Tara Ocean	oceanic
+6.3305	-102.946	Tara Ocean	oceanic
+6.3199	-102.96	Tara Ocean	oceanic
+6.3306	-102.953	Tara Ocean	oceanic
+6.4998	-94.9527	Tara Ocean	oceanic
+6.4998	-94.9527	Tara Ocean	oceanic
+6.4808	-94.9704	Tara Ocean	oceanic
+6.48	-95.0153	Tara Ocean	oceanic
+6.4946	-95.0463	Tara Ocean	oceanic
+9.8481	-80.0454	Tara Ocean	oceanic
+9.8481	-80.0454	Tara Ocean	oceanic
+9.8432	-80.0621	Tara Ocean	oceanic
+25.6168	-88.4532	Tara Ocean	oceanic
+25.6168	-88.4532	Tara Ocean	oceanic
+25.5921	-88.4388	Tara Ocean	oceanic
+25.6236	-88.45	Tara Ocean	oceanic
+25.6236	-88.45	Tara Ocean	oceanic
+25.5264	-88.394	Tara Ocean	oceanic
+25.5877	-88.4275	Tara Ocean	oceanic
+25.5593	-88.4126	Tara Ocean	oceanic
+29.851	-79.7064	Tara Ocean	oceanic
+29.8103	-79.668	Tara Ocean	oceanic
+29.7902	-79.6437	Tara Ocean	oceanic
+29.8253	-79.6833	Tara Ocean	oceanic
+29.8556	-79.6493	Tara Ocean	oceanic
+29.6394	-79.5395	Tara Ocean	oceanic
+29.6394	-79.5395	Tara Ocean	oceanic
+29.7186	-79.6636	Tara Ocean	oceanic
+29.7812	-79.6299	Tara Ocean	oceanic
+29.6721	-79.5929	Tara Ocean	oceanic
+36.4121	-72.9289	Tara Ocean	oceanic
+36.4121	-72.9289	Tara Ocean	oceanic
+36.3698	-72.9669	Tara Ocean	oceanic
+36.345	-72.7586	Tara Ocean	oceanic
+39.2305	-70.0377	Tara Ocean	oceanic
+39.2214	-70.0322	Tara Ocean	oceanic
+34.6663	-71.2907	Tara Ocean	oceanic
+34.6663	-71.2907	Tara Ocean	oceanic
+34.6712	-71.3093	Tara Ocean	oceanic
+34.6712	-71.3093	Tara Ocean	oceanic
+34.8217	-71.21	Tara Ocean	oceanic
+34.7942	-71.2229	Tara Ocean	oceanic
+34.7631	-71.2422	Tara Ocean	oceanic
+33.061	-66.5435	Tara Ocean	oceanic
+33.061	-66.5435	Tara Ocean	oceanic
+32.9701	-66.5548	Tara Ocean	oceanic
+32.9997	-66.5655	Tara Ocean	oceanic
+33.0096	-66.547	Tara Ocean	oceanic
+34.1504	-56.9684	Tara Ocean	oceanic
+34.1504	-56.9684	Tara Ocean	oceanic
+31.6948	-64.2489	Tara Ocean	oceanic
+31.6948	-64.2489	Tara Ocean	oceanic
+31.8103	-64.1348	Tara Ocean	oceanic
+31.7913	-64.1522	Tara Ocean	oceanic
+31.7432	-64.1967	Tara Ocean	oceanic
+34.0771	-49.8233	Tara Ocean	oceanic
+34.1132	-49.9181	Tara Ocean	oceanic
+34.1132	-49.9181	Tara Ocean	oceanic
+34.0533	-49.8355	Tara Ocean	oceanic
+34.0639	-49.844	Tara Ocean	oceanic
+34.0823	-49.8695	Tara Ocean	oceanic
+35.8427	-37.1526	Tara Ocean	oceanic
+35.8427	-37.1526	Tara Ocean	oceanic
+35.8777	-37.1969	Tara Ocean	oceanic
+35.8605	-37.178	Tara Ocean	oceanic
+35.7867	-37.0916	Tara Ocean	oceanic
+35.9346	-37.3032	Tara Ocean	oceanic
+35.9346	-37.3032	Tara Ocean	oceanic
+35.8641	-37.1831	Tara Ocean	oceanic
+35.8913	-37.2369	Tara Ocean	oceanic
+35.9167	-37.2761	Tara Ocean	oceanic
+36.1811	-28.9373	Tara Ocean	oceanic
+36.1811	-28.9373	Tara Ocean	oceanic
+36.1765	-28.9694	Tara Ocean	oceanic
+36.1736	-29.003	Tara Ocean	oceanic
+36.1715	-29.023	Tara Ocean	oceanic
+36.1715	-29.023	Tara Ocean	oceanic
+36.1399	-28.9689	Tara Ocean	oceanic
+36.15	-28.9989	Tara Ocean	oceanic
+36.1631	-29.0143	Tara Ocean	oceanic
+43.7182	-16.8714	Tara Ocean	oceanic
+43.7182	-16.8714	Tara Ocean	oceanic
+43.7056	-16.8794	Tara Ocean	oceanic
+43.7056	-16.8794	Tara Ocean	oceanic
+43.7056	-16.8794	Tara Ocean	oceanic
+43.7421	-16.9002	Tara Ocean	oceanic
+43.8081	-16.8886	Tara Ocean	oceanic
+43.7056	-16.8794	Tara Ocean	oceanic
+43.7056	-16.8794	Tara Ocean	oceanic
+43.7056	-16.8794	Tara Ocean	oceanic
+43.6792	-16.8344	Tara Ocean	oceanic
+43.6792	-16.8344	Tara Ocean	oceanic
+43.6858	-16.8474	Tara Ocean	oceanic
+43.6904	-16.8544	Tara Ocean	oceanic
+43.6825	-16.8412	Tara Ocean	oceanic
+44.0497	-16.6034	Tara Ocean	oceanic
+44.0497	-16.6034	Tara Ocean	oceanic
+44.0497	-16.6034	Tara Ocean	oceanic
+44.074	-16.547	Tara Ocean	oceanic
+44.0852	-16.5645	Tara Ocean	oceanic
+44.0342	-16.5455	Tara Ocean	oceanic
+44.0342	-16.5455	Tara Ocean	oceanic
+44.0722	-16.4987	Tara Ocean	oceanic
+44.0722	-16.4987	Tara Ocean	oceanic
+37.5145	17.3062	Tara Ocean	oceanic
+18.5745	66.4895	Tara Ocean	oceanic
+18.5745	66.4895	Tara Ocean	oceanic
+-2.0465	72.1568	Tara Ocean	oceanic
+-2.0465	72.1568	Tara Ocean	oceanic
+-2.0461	72.1573	Tara Ocean	oceanic
+-2.0409	72.1645	Tara Ocean	oceanic
+-16.8084	59.5043	Tara Ocean	oceanic
+-16.8083	59.5043	Tara Ocean	oceanic
+-16.8082	59.5043	Tara Ocean	oceanic
+-21.4612	56.7654	Tara Ocean	oceanic
+-21.4612	56.7654	Tara Ocean	oceanic
+-21.4792	56.8467	Tara Ocean	oceanic
+-21.4966	56.9011	Tara Ocean	oceanic
+-21.4689	54.3066	Tara Ocean	oceanic
+36.5103	-3.9747	Tara Ocean	oceanic
+36.5158	-3.9942	Tara Ocean	oceanic
+-40.6511	-52.182	Tara Ocean	oceanic
+-54.3739	-65.1342	Tara Ocean	oceanic
+-54.3739	-65.1342	Tara Ocean	oceanic
+-63.4015	-56.7938	Tara Ocean	oceanic
+-29.668	-101.229	Tara Ocean	oceanic
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+41.67	2.8	European coast Biomarks 2009	coastal
+41.67	2.8	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+41.67	2.8	European coast Biomarks 2009	coastal
+41.67	2.8	European coast Biomarks 2009	coastal
+48.77	-3.96	European coast Biomarks 2009	coastal
+48.77	-3.96	European coast Biomarks 2009	coastal
+48.77	-3.96	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+41.67	2.8	European coast Biomarks 2009	coastal
+41.67	2.8	European coast Biomarks 2009	coastal
+48.77	-3.96	European coast Biomarks 2009	coastal
+48.77	-3.96	European coast Biomarks 2009	coastal
+48.77	-3.96	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+43.17	28.83	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+59.25	10.71	European coast Biomarks 2009	coastal
+41.67	2.8	European coast Biomarks 2009	coastal
+41.67	2.8	European coast Biomarks 2009	coastal
+43.67	-5.58	European coast Biomarks 2009	coastal
+43.67	-5.58	European coast Biomarks 2009	coastal
+43.67	-5.58	European coast Biomarks 2009	coastal
+43.67	-5.58	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+40.81	14.25	European coast Biomarks 2009	coastal
+11.38	142.3	Mariana Trench 2016	oceanic
+11.38	142.3	Mariana Trench 2016	oceanic
+11.38	142.3	Mariana Trench 2016	oceanic
+11.38	142.3	Mariana Trench 2016	oceanic
+11.38	142.3	Mariana Trench 2016	oceanic
+11.38	142.3	Mariana Trench 2016	oceanic
+11.38	142.3	Mariana Trench 2016	oceanic
+11.38	142.3	Mariana Trench 2016	oceanic
+11.38	142.3	Mariana Trench 2016	oceanic
+11.38	142.3	Mariana Trench 2016	oceanic
+11.38	142.3	Mariana Trench 2016	oceanic
+11.38	142.3	Mariana Trench 2016	oceanic
+11.35	141.13	Mariana Trench 2016	oceanic
+11.35	141.13	Mariana Trench 2016	oceanic
+11.35	141.13	Mariana Trench 2016	oceanic
+11.35	141.13	Mariana Trench 2016	oceanic
+11.72	142.13	Mariana Trench 2016	oceanic
+11.72	142.13	Mariana Trench 2016	oceanic
+11.72	142.13	Mariana Trench 2016	oceanic
+11.72	142.13	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.35	141.13	Mariana Trench 2016	oceanic
+11.35	141.13	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.35	141.13	Mariana Trench 2016	oceanic
+11.35	141.13	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.72	142.13	Mariana Trench 2016	oceanic
+11.72	142.13	Mariana Trench 2016	oceanic
+11.72	142.13	Mariana Trench 2016	oceanic
+11.72	142.13	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.02	142.08	Mariana Trench 2016	oceanic
+11.72	142.13	Mariana Trench 2016	oceanic
+11.72	142.13	Mariana Trench 2016	oceanic
+-30.1367	-43.2899	Tara Ocean	oceanic
+-30.1367	-43.2899	Tara Ocean	oceanic
+-9.3	-9.5587	Tara Ocean	oceanic
+-9.3	-9.5587	Tara Ocean	oceanic
+-20.4091	-3.1759	Tara Ocean	oceanic
+-20.4091	-3.1759	Tara Ocean	oceanic
+-31.0266	4.665	Tara Ocean	oceanic
+-31.0266	4.665	Tara Ocean	oceanic
+-32.2401	17.7103	Tara Ocean	oceanic
+-32.2401	17.7103	Tara Ocean	oceanic
+-8.7789	-17.9099	Tara Ocean	oceanic
+-20.9354	-35.1803	Tara Ocean	oceanic
+-20.9354	-35.1803	Tara Ocean	oceanic
+-60.2287	-60.6476	Tara Ocean	oceanic
+-60.2287	-60.6476	Tara Ocean	oceanic
+-64.3595	-53.0063	Tara Ocean	oceanic
+-64.3595	-53.0063	Tara Ocean	oceanic
+-63.8768	-56.0916	Tara Ocean	oceanic
+-63.8768	-56.0916	Tara Ocean	oceanic
+-63.4015	-56.7938	Tara Ocean	oceanic
+-63.4015	-56.7938	Tara Ocean	oceanic
+-57.7338	-67.1084	Tara Ocean	oceanic
+-57.7338	-67.1084	Tara Ocean	oceanic
+-29.7238	-101.16	Tara Ocean	oceanic
+-29.7238	-101.16	Tara Ocean	oceanic
+-31.4424	-93.9597	Tara Ocean	oceanic
+-31.4424	-93.9597	Tara Ocean	oceanic
+-32.7971	-87.0693	Tara Ocean	oceanic
+-32.7971	-87.0693	Tara Ocean	oceanic
+-33.6895	-71.998	Tara Ocean	oceanic
+-33.6895	-71.998	Tara Ocean	oceanic
+-54.3739	-65.1342	Tara Ocean	oceanic
+-54.3739	-65.1342	Tara Ocean	oceanic
+-47.1863	-58.2902	Tara Ocean	oceanic
+-47.1863	-58.2902	Tara Ocean	oceanic
+-40.6511	-52.182	Tara Ocean	oceanic
+-40.6511	-52.182	Tara Ocean	oceanic
+-28.1698	-107.383	Tara Ocean	oceanic
+-28.1698	-107.383	Tara Ocean	oceanic
+-21.146	-104.787	Tara Ocean	oceanic
+-21.146	-104.787	Tara Ocean	oceanic
+-13.0023	-95.9759	Tara Ocean	oceanic
+-5.2529	-85.1545	Tara Ocean	oceanic
+-0.0283	-84.5862	Tara Ocean	oceanic
+1.9928	-84.5766	Tara Ocean	oceanic
+-2.0133	-84.589	Tara Ocean	oceanic
+-16.9601	-100.633	Tara Ocean	oceanic
+-23.1108	-134.933	Tara Ocean	oceanic
+-23.1595	-134.924	Tara Ocean	oceanic
+-23.2329	-134.961	Tara Ocean	oceanic
+-23.2317	-134.961	Tara Ocean	oceanic
+-23.1571	-135.018	Tara Ocean	oceanic
+-23.1571	-135.018	Tara Ocean	oceanic
+-23.0244	-134.923	Tara Ocean	oceanic
+-23.0242	-134.923	Tara Ocean	oceanic
+-23.073	-135.018	Tara Ocean	oceanic
+-8.9971	-139.196	Tara Ocean	oceanic
+-8.9068	-140.283	Tara Ocean	oceanic
+-8.9111	-142.557	Tara Ocean	oceanic
+-9.1504	-140.522	Tara Ocean	oceanic
+33.061	-66.5435	Tara Ocean	oceanic
+31.6948	-64.2489	Tara Ocean	oceanic
+31.6948	-64.2489	Tara Ocean	oceanic
+34.1132	-49.9181	Tara Ocean	oceanic
+34.1132	-49.9181	Tara Ocean	oceanic
+32.7526	-122.001	Tara Ocean	oceanic
+-11.9873	-151.05	Tara Ocean	oceanic
+-6.6499	-152.424	Tara Ocean	oceanic
+0.0003	-153.676	Tara Ocean	oceanic
+6.671	-153.066	Tara Ocean	oceanic
+11.2723	-152.371	Tara Ocean	oceanic
+22.7598	-157.957	Tara Ocean	oceanic
+31.5213	-158.996	Tara Ocean	oceanic
+35.3671	-127.742	Tara Ocean	oceanic
+32.9986	-121.77	Tara Ocean	oceanic
+32.9986	-121.77	Tara Ocean	oceanic
+35.9346	-37.3032	Tara Ocean	oceanic
+35.9346	-37.3032	Tara Ocean	oceanic
+36.1715	-29.023	Tara Ocean	oceanic
+36.1715	-29.023	Tara Ocean	oceanic
+43.6792	-16.8344	Tara Ocean	oceanic
+43.6792	-16.8344	Tara Ocean	oceanic
+14.2035	-116.626	Tara Ocean	oceanic
+14.2035	-116.626	Tara Ocean	oceanic
+17.0854	-118.891	Tara Ocean	oceanic
+17.0854	-118.891	Tara Ocean	oceanic
+6.3332	-102.943	Tara Ocean	oceanic
+6.3332	-102.943	Tara Ocean	oceanic
+6.4998	-94.9527	Tara Ocean	oceanic
+6.4998	-94.9527	Tara Ocean	oceanic
+7.4122	-79.3017	Tara Ocean	oceanic
+7.4122	-79.3017	Tara Ocean	oceanic
+25.5264	-88.394	Tara Ocean	oceanic
+25.5264	-88.394	Tara Ocean	oceanic
+9.8481	-80.0454	Tara Ocean	oceanic
+9.8481	-80.0454	Tara Ocean	oceanic
+29.6394	-79.5395	Tara Ocean	oceanic
+29.6394	-79.5395	Tara Ocean	oceanic
+36.3698	-72.9669	Tara Ocean	oceanic
+36.3698	-72.9669	Tara Ocean	oceanic
+39.2305	-70.0377	Tara Ocean	oceanic
+39.2305	-70.0377	Tara Ocean	oceanic
+34.6712	-71.3093	Tara Ocean	oceanic
+34.6712	-71.3093	Tara Ocean	oceanic
+54.5305	-16.9377	Tara Arctic	oceanic
+54.5305	-16.9377	Tara Arctic	oceanic
+67.141	0.2355	Tara Arctic	oceanic
+67.141	0.2355	Tara Arctic	oceanic
+76.1825	1.3918	Tara Arctic	oceanic
+76.1825	1.3918	Tara Arctic	oceanic
+72.5128	44.0775	Tara Arctic	oceanic
+72.5128	44.0775	Tara Arctic	oceanic
+79.2233	66.3435	Tara Arctic	oceanic
+79.2233	66.3435	Tara Arctic	oceanic
+77.1604	73.2057	Tara Arctic	oceanic
+77.1604	73.2057	Tara Arctic	oceanic
+74.8023	76.1478	Tara Arctic	oceanic
+74.8023	76.1478	Tara Arctic	oceanic
+77.9028	117.155	Tara Arctic	oceanic
+77.9028	117.155	Tara Arctic	oceanic
+71.0704	174.992	Tara Arctic	oceanic
+71.0704	174.992	Tara Arctic	oceanic
+73.3833	-168.133	Tara Arctic	oceanic
+73.3833	-168.133	Tara Arctic	oceanic
+71.8895	-154.91	Tara Arctic	oceanic
+71.8895	-154.91	Tara Arctic	oceanic
+74.2987	-85.7806	Tara Arctic	oceanic
+74.2987	-85.7806	Tara Arctic	oceanic
+72.4693	-71.892	Tara Arctic	oceanic
+72.4693	-71.892	Tara Arctic	oceanic
+69.1136	-51.5086	Tara Arctic	oceanic
+69.1136	-51.5086	Tara Arctic	oceanic
